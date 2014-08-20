@@ -1,0 +1,1107 @@
+﻿
+2014-08-20T15:02:58: Start analysis
+2014-08-20T15:05:34: IncludeModulesFromModulePath = win32com
+cludeModulesFromModulePath = win32com
+2014-08-20T15:05:33: Deleting 0 files
+2014-08-20T15:05:33: Scraping builtin modules
+2014-08-20T15:05:33: Command: D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Scripts\python.exe "D:\Software\VS2013\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\PythonScraper.py" D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\.ptvs "D:\Software\VS2013\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\CompletionDB"
+2014-08-20T15:05:35: Output
+D:\Software\VS2013\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\CompletionDB\__builtin__.idb
+D:\Software\VS2013\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\CompletionDB\_codecs.idb
+D:\Software\VS2013\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\CompletionDB\_collections.idb
+D:\Software\VS2013\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\CompletionDB\_functools.idb
+D:\Software\VS2013\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\CompletionDB\_heapq.idb
+D:\Software\VS2013\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\CompletionDB\_io.idb
+D:\Software\VS2013\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\CompletionDB\_locale.idb
+D:\Software\VS2013\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\CompletionDB\_md5.idb
+D:\Software\VS2013\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\CompletionDB\_random.idb
+D:\Software\VS2013\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\CompletionDB\_sha.idb
+D:\Software\VS2013\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\CompletionDB\_sha256.idb
+D:\Software\VS2013\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\CompletionDB\_sha512.idb
+D:\Software\VS2013\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\CompletionDB\_sre.idb
+D:\Software\VS2013\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\CompletionDB\_struct.idb
+D:\Software\VS2013\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\CompletionDB\_subprocess.idb
+D:\Software\VS2013\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\CompletionDB\_warnings.idb
+D:\Software\VS2013\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\CompletionDB\_weakref.idb
+D:\Software\VS2013\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\CompletionDB\_winreg.idb
+D:\Software\VS2013\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\CompletionDB\array.idb
+D:\Software\VS2013\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\CompletionDB\binascii.idb
+D:\Software\VS2013\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\CompletionDB\cPickle.idb
+D:\Software\VS2013\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\CompletionDB\cStringIO.idb
+D:\Software\VS2013\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\CompletionDB\cmath.idb
+D:\Software\VS2013\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\CompletionDB\datetime.idb
+D:\Software\VS2013\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\CompletionDB\errno.idb
+D:\Software\VS2013\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\CompletionDB\exceptions.idb
+D:\Software\VS2013\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\CompletionDB\future_builtins.idb
+D:\Software\VS2013\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\CompletionDB\gc.idb
+D:\Software\VS2013\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\CompletionDB\imp.idb
+D:\Software\VS2013\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\CompletionDB\itertools.idb
+D:\Software\VS2013\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\CompletionDB\marshal.idb
+D:\Software\VS2013\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\CompletionDB\math.idb
+D:\Software\VS2013\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\CompletionDB\mmap.idb
+D:\Software\VS2013\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\CompletionDB\msvcrt.idb
+D:\Software\VS2013\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\CompletionDB\nt.idb
+D:\Software\VS2013\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\CompletionDB\operator.idb
+D:\Software\VS2013\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\CompletionDB\signal.idb
+D:\Software\VS2013\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\CompletionDB\sys.idb
+D:\Software\VS2013\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\CompletionDB\thread.idb
+D:\Software\VS2013\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\CompletionDB\time.idb
+D:\Software\VS2013\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\CompletionDB\xxsubtype.idb
+2014-08-20T15:05:35: Scraped builtin modules
+2014-08-20T15:05:35: astropy.CallDepth = 0
+2014-08-20T15:05:35: matplotlib.CallDepth = 3
+2014-08-20T15:05:35: pandas.CallDepth = 0
+2014-08-20T15:05:35: sympy.CallDepth = 0
+2014-08-20T15:05:35: Start group "D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib" with 143 files
+2014-08-20T15:05:36: Parsing "abc" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\abc.py")
+2014-08-20T15:05:36: Parsing "codecs" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\codecs.py")
+2014-08-20T15:05:37: Parsing "copy_reg" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\copy_reg.py")
+2014-08-20T15:05:37: Parsing "fnmatch" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\fnmatch.py")
+2014-08-20T15:05:37: Parsing "genericpath" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\genericpath.py")
+2014-08-20T15:05:37: Parsing "linecache" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\linecache.py")
+2014-08-20T15:05:37: Parsing "locale" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\locale.py")
+2014-08-20T15:05:37: Parsing "ntpath" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\ntpath.py")
+2014-08-20T15:05:37: Parsing "os" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\os.py")
+2014-08-20T15:05:37: Parsing "posixpath" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\posixpath.py")
+2014-08-20T15:05:37: Parsing "re" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\re.py")
+2014-08-20T15:05:37: Parsing "site" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site.py")
+2014-08-20T15:05:37: Parsing "sre" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\sre.py")
+2014-08-20T15:05:37: Parsing "sre_compile" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\sre_compile.py")
+2014-08-20T15:05:37: Parsing "sre_constants" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\sre_constants.py")
+2014-08-20T15:05:37: Parsing "sre_parse" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\sre_parse.py")
+2014-08-20T15:05:37: Parsing "stat" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\stat.py")
+2014-08-20T15:05:37: Parsing "types" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\types.py")
+2014-08-20T15:05:37: Parsing "UserDict" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\UserDict.py")
+2014-08-20T15:05:37: Parsing "warnings" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\warnings.py")
+2014-08-20T15:05:37: Parsing "_abcoll" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\_abcoll.py")
+2014-08-20T15:05:37: Parsing "_weakrefset" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\_weakrefset.py")
+2014-08-20T15:05:37: Parsing "distutils" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\distutils\__init__.py")
+2014-08-20T15:05:37: Parsing "encodings.aliases" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\encodings\aliases.py")
+2014-08-20T15:05:37: Parsing "encodings.ascii" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\encodings\ascii.py")
+2014-08-20T15:05:37: Parsing "encodings.base64_codec" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\encodings\base64_codec.py")
+2014-08-20T15:05:37: Parsing "encodings.big5" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\encodings\big5.py")
+2014-08-20T15:05:37: Parsing "encodings.big5hkscs" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\encodings\big5hkscs.py")
+2014-08-20T15:05:37: Parsing "encodings.bz2_codec" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\encodings\bz2_codec.py")
+2014-08-20T15:05:37: Parsing "encodings.charmap" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\encodings\charmap.py")
+2014-08-20T15:05:37: Parsing "encodings.cp037" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\encodings\cp037.py")
+2014-08-20T15:05:37: Parsing "encodings.cp1006" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\encodings\cp1006.py")
+2014-08-20T15:05:37: Parsing "encodings.cp1026" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\encodings\cp1026.py")
+2014-08-20T15:05:37: Parsing "encodings.cp1140" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\encodings\cp1140.py")
+2014-08-20T15:05:37: Parsing "encodings.cp1250" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\encodings\cp1250.py")
+2014-08-20T15:05:37: Parsing "encodings.cp1251" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\encodings\cp1251.py")
+2014-08-20T15:05:37: Parsing "encodings.cp1252" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\encodings\cp1252.py")
+2014-08-20T15:05:37: Parsing "encodings.cp1253" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\encodings\cp1253.py")
+2014-08-20T15:05:37: Parsing "encodings.cp1254" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\encodings\cp1254.py")
+2014-08-20T15:05:37: Parsing "encodings.cp1255" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\encodings\cp1255.py")
+2014-08-20T15:05:37: Parsing "encodings.cp1256" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\encodings\cp1256.py")
+2014-08-20T15:05:37: Parsing "encodings.cp1257" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\encodings\cp1257.py")
+2014-08-20T15:05:37: Parsing "encodings.cp1258" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\encodings\cp1258.py")
+2014-08-20T15:05:37: Parsing "encodings.cp424" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\encodings\cp424.py")
+2014-08-20T15:05:37: Parsing "encodings.cp437" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\encodings\cp437.py")
+2014-08-20T15:05:37: Parsing "encodings.cp500" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\encodings\cp500.py")
+2014-08-20T15:05:37: Parsing "encodings.cp720" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\encodings\cp720.py")
+2014-08-20T15:05:37: Parsing "encodings.cp737" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\encodings\cp737.py")
+2014-08-20T15:05:37: Parsing "encodings.cp775" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\encodings\cp775.py")
+2014-08-20T15:05:37: Parsing "encodings.cp850" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\encodings\cp850.py")
+2014-08-20T15:05:37: Parsing "encodings.cp852" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\encodings\cp852.py")
+2014-08-20T15:05:37: Parsing "encodings.cp855" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\encodings\cp855.py")
+2014-08-20T15:05:37: Parsing "encodings.cp856" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\encodings\cp856.py")
+2014-08-20T15:05:37: Parsing "encodings.cp857" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\encodings\cp857.py")
+2014-08-20T15:05:37: Parsing "encodings.cp858" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\encodings\cp858.py")
+2014-08-20T15:05:37: Parsing "encodings.cp860" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\encodings\cp860.py")
+2014-08-20T15:05:37: Parsing "encodings.cp861" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\encodings\cp861.py")
+2014-08-20T15:05:37: Parsing "encodings.cp862" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\encodings\cp862.py")
+2014-08-20T15:05:37: Parsing "encodings.cp863" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\encodings\cp863.py")
+2014-08-20T15:05:37: Parsing "encodings.cp864" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\encodings\cp864.py")
+2014-08-20T15:05:37: Parsing "encodings.cp865" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\encodings\cp865.py")
+2014-08-20T15:05:37: Parsing "encodings.cp866" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\encodings\cp866.py")
+2014-08-20T15:05:37: Parsing "encodings.cp869" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\encodings\cp869.py")
+2014-08-20T15:05:37: Parsing "encodings.cp874" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\encodings\cp874.py")
+2014-08-20T15:05:37: Parsing "encodings.cp875" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\encodings\cp875.py")
+2014-08-20T15:05:37: Parsing "encodings.cp932" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\encodings\cp932.py")
+2014-08-20T15:05:37: Parsing "encodings.cp949" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\encodings\cp949.py")
+2014-08-20T15:05:37: Parsing "encodings.cp950" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\encodings\cp950.py")
+2014-08-20T15:05:37: Parsing "encodings.euc_jisx0213" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\encodings\euc_jisx0213.py")
+2014-08-20T15:05:37: Parsing "encodings.euc_jis_2004" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\encodings\euc_jis_2004.py")
+2014-08-20T15:05:37: Parsing "encodings.euc_jp" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\encodings\euc_jp.py")
+2014-08-20T15:05:37: Parsing "encodings.euc_kr" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\encodings\euc_kr.py")
+2014-08-20T15:05:37: Parsing "encodings.gb18030" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\encodings\gb18030.py")
+2014-08-20T15:05:37: Parsing "encodings.gb2312" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\encodings\gb2312.py")
+2014-08-20T15:05:37: Parsing "encodings.gbk" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\encodings\gbk.py")
+2014-08-20T15:05:37: Parsing "encodings.hex_codec" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\encodings\hex_codec.py")
+2014-08-20T15:05:37: Parsing "encodings.hp_roman8" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\encodings\hp_roman8.py")
+2014-08-20T15:05:37: Parsing "encodings.hz" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\encodings\hz.py")
+2014-08-20T15:05:37: Parsing "encodings.idna" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\encodings\idna.py")
+2014-08-20T15:05:37: Parsing "encodings.iso2022_jp" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\encodings\iso2022_jp.py")
+2014-08-20T15:05:37: Parsing "encodings.iso2022_jp_1" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\encodings\iso2022_jp_1.py")
+2014-08-20T15:05:37: Parsing "encodings.iso2022_jp_2" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\encodings\iso2022_jp_2.py")
+2014-08-20T15:05:37: Parsing "encodings.iso2022_jp_2004" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\encodings\iso2022_jp_2004.py")
+2014-08-20T15:05:37: Parsing "encodings.iso2022_jp_3" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\encodings\iso2022_jp_3.py")
+2014-08-20T15:05:37: Parsing "encodings.iso2022_jp_ext" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\encodings\iso2022_jp_ext.py")
+2014-08-20T15:05:37: Parsing "encodings.iso2022_kr" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\encodings\iso2022_kr.py")
+2014-08-20T15:05:37: Parsing "encodings.iso8859_1" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\encodings\iso8859_1.py")
+2014-08-20T15:05:37: Parsing "encodings.iso8859_10" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\encodings\iso8859_10.py")
+2014-08-20T15:05:37: Parsing "encodings.iso8859_11" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\encodings\iso8859_11.py")
+2014-08-20T15:05:37: Parsing "encodings.iso8859_13" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\encodings\iso8859_13.py")
+2014-08-20T15:05:37: Parsing "encodings.iso8859_14" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\encodings\iso8859_14.py")
+2014-08-20T15:05:37: Parsing "encodings.iso8859_15" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\encodings\iso8859_15.py")
+2014-08-20T15:05:37: Parsing "encodings.iso8859_16" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\encodings\iso8859_16.py")
+2014-08-20T15:05:37: Parsing "encodings.iso8859_2" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\encodings\iso8859_2.py")
+2014-08-20T15:05:37: Parsing "encodings.iso8859_3" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\encodings\iso8859_3.py")
+2014-08-20T15:05:37: Parsing "encodings.iso8859_4" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\encodings\iso8859_4.py")
+2014-08-20T15:05:37: Parsing "encodings.iso8859_5" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\encodings\iso8859_5.py")
+2014-08-20T15:05:37: Parsing "encodings.iso8859_6" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\encodings\iso8859_6.py")
+2014-08-20T15:05:37: Parsing "encodings.iso8859_7" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\encodings\iso8859_7.py")
+2014-08-20T15:05:37: Parsing "encodings.iso8859_8" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\encodings\iso8859_8.py")
+2014-08-20T15:05:37: Parsing "encodings.iso8859_9" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\encodings\iso8859_9.py")
+2014-08-20T15:05:37: Parsing "encodings.johab" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\encodings\johab.py")
+2014-08-20T15:05:37: Parsing "encodings.koi8_r" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\encodings\koi8_r.py")
+2014-08-20T15:05:37: Parsing "encodings.koi8_u" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\encodings\koi8_u.py")
+2014-08-20T15:05:37: Parsing "encodings.latin_1" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\encodings\latin_1.py")
+2014-08-20T15:05:37: Parsing "encodings.mac_arabic" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\encodings\mac_arabic.py")
+2014-08-20T15:05:37: Parsing "encodings.mac_centeuro" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\encodings\mac_centeuro.py")
+2014-08-20T15:05:37: Parsing "encodings.mac_croatian" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\encodings\mac_croatian.py")
+2014-08-20T15:05:37: Parsing "encodings.mac_cyrillic" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\encodings\mac_cyrillic.py")
+2014-08-20T15:05:37: Parsing "encodings.mac_farsi" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\encodings\mac_farsi.py")
+2014-08-20T15:05:37: Parsing "encodings.mac_greek" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\encodings\mac_greek.py")
+2014-08-20T15:05:37: Parsing "encodings.mac_iceland" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\encodings\mac_iceland.py")
+2014-08-20T15:05:37: Parsing "encodings.mac_latin2" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\encodings\mac_latin2.py")
+2014-08-20T15:05:37: Parsing "encodings.mac_roman" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\encodings\mac_roman.py")
+2014-08-20T15:05:37: Parsing "encodings.mac_romanian" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\encodings\mac_romanian.py")
+2014-08-20T15:05:37: Parsing "encodings.mac_turkish" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\encodings\mac_turkish.py")
+2014-08-20T15:05:37: Parsing "encodings.mbcs" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\encodings\mbcs.py")
+2014-08-20T15:05:37: Parsing "encodings.palmos" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\encodings\palmos.py")
+2014-08-20T15:05:37: Parsing "encodings.ptcp154" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\encodings\ptcp154.py")
+2014-08-20T15:05:37: Parsing "encodings.punycode" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\encodings\punycode.py")
+2014-08-20T15:05:37: Parsing "encodings.quopri_codec" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\encodings\quopri_codec.py")
+2014-08-20T15:05:37: Parsing "encodings.raw_unicode_escape" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\encodings\raw_unicode_escape.py")
+2014-08-20T15:05:37: Parsing "encodings.rot_13" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\encodings\rot_13.py")
+2014-08-20T15:05:37: Parsing "encodings.shift_jis" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\encodings\shift_jis.py")
+2014-08-20T15:05:37: Parsing "encodings.shift_jisx0213" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\encodings\shift_jisx0213.py")
+2014-08-20T15:05:37: Parsing "encodings.shift_jis_2004" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\encodings\shift_jis_2004.py")
+2014-08-20T15:05:37: Parsing "encodings.string_escape" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\encodings\string_escape.py")
+2014-08-20T15:05:37: Parsing "encodings.tis_620" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\encodings\tis_620.py")
+2014-08-20T15:05:37: Parsing "encodings.undefined" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\encodings\undefined.py")
+2014-08-20T15:05:37: Parsing "encodings.unicode_escape" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\encodings\unicode_escape.py")
+2014-08-20T15:05:37: Parsing "encodings.unicode_internal" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\encodings\unicode_internal.py")
+2014-08-20T15:05:37: Parsing "encodings.utf_16" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\encodings\utf_16.py")
+2014-08-20T15:05:37: Parsing "encodings.utf_16_be" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\encodings\utf_16_be.py")
+2014-08-20T15:05:37: Parsing "encodings.utf_16_le" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\encodings\utf_16_le.py")
+2014-08-20T15:05:37: Parsing "encodings.utf_32" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\encodings\utf_32.py")
+2014-08-20T15:05:37: Parsing "encodings.utf_32_be" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\encodings\utf_32_be.py")
+2014-08-20T15:05:37: Parsing "encodings.utf_32_le" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\encodings\utf_32_le.py")
+2014-08-20T15:05:37: Parsing "encodings.utf_7" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\encodings\utf_7.py")
+2014-08-20T15:05:37: Parsing "encodings.utf_8" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\encodings\utf_8.py")
+2014-08-20T15:05:37: Parsing "encodings.utf_8_sig" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\encodings\utf_8_sig.py")
+2014-08-20T15:05:37: Parsing "encodings.uu_codec" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\encodings\uu_codec.py")
+2014-08-20T15:05:37: Parsing "encodings.zlib_codec" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\encodings\zlib_codec.py")
+2014-08-20T15:05:37: Parsing "encodings" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\encodings\__init__.py")
+2014-08-20T15:05:37: Parsing complete
+2014-08-20T15:05:37: Analyzing "abc"
+2014-08-20T15:05:37: Analyzing "codecs"
+2014-08-20T15:05:37: Analyzing "copy_reg"
+2014-08-20T15:05:37: Analyzing "fnmatch"
+2014-08-20T15:05:37: Analyzing "genericpath"
+2014-08-20T15:05:37: Analyzing "linecache"
+2014-08-20T15:05:37: Analyzing "locale"
+2014-08-20T15:05:37: Analyzing "ntpath"
+2014-08-20T15:05:37: Analyzing "os"
+2014-08-20T15:05:37: Analyzing "posixpath"
+2014-08-20T15:05:37: Analyzing "re"
+2014-08-20T15:05:37: Analyzing "site"
+2014-08-20T15:05:37: Analyzing "sre"
+2014-08-20T15:05:37: Analyzing "sre_compile"
+2014-08-20T15:05:37: Analyzing "sre_constants"
+2014-08-20T15:05:37: Analyzing "sre_parse"
+2014-08-20T15:05:37: Analyzing "stat"
+2014-08-20T15:05:37: Analyzing "types"
+2014-08-20T15:05:37: Analyzing "UserDict"
+2014-08-20T15:05:37: Analyzing "warnings"
+2014-08-20T15:05:37: Analyzing "_abcoll"
+2014-08-20T15:05:37: Analyzing "_weakrefset"
+2014-08-20T15:05:37: Analyzing "distutils"
+2014-08-20T15:05:37: Analyzing "encodings.aliases"
+2014-08-20T15:05:37: Analyzing "encodings.ascii"
+2014-08-20T15:05:37: Analyzing "encodings.base64_codec"
+2014-08-20T15:05:37: Analyzing "encodings.big5"
+2014-08-20T15:05:37: Analyzing "encodings.big5hkscs"
+2014-08-20T15:05:37: Analyzing "encodings.bz2_codec"
+2014-08-20T15:05:37: Analyzing "encodings.charmap"
+2014-08-20T15:05:37: Analyzing "encodings.cp037"
+2014-08-20T15:05:37: Analyzing "encodings.cp1006"
+2014-08-20T15:05:37: Analyzing "encodings.cp1026"
+2014-08-20T15:05:37: Analyzing "encodings.cp1140"
+2014-08-20T15:05:37: Analyzing "encodings.cp1250"
+2014-08-20T15:05:37: Analyzing "encodings.cp1251"
+2014-08-20T15:05:37: Analyzing "encodings.cp1252"
+2014-08-20T15:05:37: Analyzing "encodings.cp1253"
+2014-08-20T15:05:37: Analyzing "encodings.cp1254"
+2014-08-20T15:05:37: Analyzing "encodings.cp1255"
+2014-08-20T15:05:37: Analyzing "encodings.cp1256"
+2014-08-20T15:05:37: Analyzing "encodings.cp1257"
+2014-08-20T15:05:37: Analyzing "encodings.cp1258"
+2014-08-20T15:05:37: Analyzing "encodings.cp424"
+2014-08-20T15:05:37: Analyzing "encodings.cp437"
+2014-08-20T15:05:37: Analyzing "encodings.cp500"
+2014-08-20T15:05:37: Analyzing "encodings.cp720"
+2014-08-20T15:05:37: Analyzing "encodings.cp737"
+2014-08-20T15:05:37: Analyzing "encodings.cp775"
+2014-08-20T15:05:37: Analyzing "encodings.cp850"
+2014-08-20T15:05:37: Analyzing "encodings.cp852"
+2014-08-20T15:05:37: Analyzing "encodings.cp855"
+2014-08-20T15:05:37: Analyzing "encodings.cp856"
+2014-08-20T15:05:37: Analyzing "encodings.cp857"
+2014-08-20T15:05:37: Analyzing "encodings.cp858"
+2014-08-20T15:05:37: Analyzing "encodings.cp860"
+2014-08-20T15:05:37: Analyzing "encodings.cp861"
+2014-08-20T15:05:37: Analyzing "encodings.cp862"
+2014-08-20T15:05:37: Analyzing "encodings.cp863"
+2014-08-20T15:05:37: Analyzing "encodings.cp864"
+2014-08-20T15:05:37: Analyzing "encodings.cp865"
+2014-08-20T15:05:37: Analyzing "encodings.cp866"
+2014-08-20T15:05:37: Analyzing "encodings.cp869"
+2014-08-20T15:05:37: Analyzing "encodings.cp874"
+2014-08-20T15:05:37: Analyzing "encodings.cp875"
+2014-08-20T15:05:37: Analyzing "encodings.cp932"
+2014-08-20T15:05:37: Analyzing "encodings.cp949"
+2014-08-20T15:05:37: Analyzing "encodings.cp950"
+2014-08-20T15:05:37: Analyzing "encodings.euc_jisx0213"
+2014-08-20T15:05:37: Analyzing "encodings.euc_jis_2004"
+2014-08-20T15:05:37: Analyzing "encodings.euc_jp"
+2014-08-20T15:05:37: Analyzing "encodings.euc_kr"
+2014-08-20T15:05:37: Analyzing "encodings.gb18030"
+2014-08-20T15:05:37: Analyzing "encodings.gb2312"
+2014-08-20T15:05:37: Analyzing "encodings.gbk"
+2014-08-20T15:05:37: Analyzing "encodings.hex_codec"
+2014-08-20T15:05:37: Analyzing "encodings.hp_roman8"
+2014-08-20T15:05:37: Analyzing "encodings.hz"
+2014-08-20T15:05:37: Analyzing "encodings.idna"
+2014-08-20T15:05:37: Analyzing "encodings.iso2022_jp"
+2014-08-20T15:05:37: Analyzing "encodings.iso2022_jp_1"
+2014-08-20T15:05:37: Analyzing "encodings.iso2022_jp_2"
+2014-08-20T15:05:37: Analyzing "encodings.iso2022_jp_2004"
+2014-08-20T15:05:37: Analyzing "encodings.iso2022_jp_3"
+2014-08-20T15:05:37: Analyzing "encodings.iso2022_jp_ext"
+2014-08-20T15:05:37: Analyzing "encodings.iso2022_kr"
+2014-08-20T15:05:37: Analyzing "encodings.iso8859_1"
+2014-08-20T15:05:37: Analyzing "encodings.iso8859_10"
+2014-08-20T15:05:37: Analyzing "encodings.iso8859_11"
+2014-08-20T15:05:37: Analyzing "encodings.iso8859_13"
+2014-08-20T15:05:37: Analyzing "encodings.iso8859_14"
+2014-08-20T15:05:37: Analyzing "encodings.iso8859_15"
+2014-08-20T15:05:37: Analyzing "encodings.iso8859_16"
+2014-08-20T15:05:37: Analyzing "encodings.iso8859_2"
+2014-08-20T15:05:37: Analyzing "encodings.iso8859_3"
+2014-08-20T15:05:37: Analyzing "encodings.iso8859_4"
+2014-08-20T15:05:37: Analyzing "encodings.iso8859_5"
+2014-08-20T15:05:37: Analyzing "encodings.iso8859_6"
+2014-08-20T15:05:37: Analyzing "encodings.iso8859_7"
+2014-08-20T15:05:37: Analyzing "encodings.iso8859_8"
+2014-08-20T15:05:37: Analyzing "encodings.iso8859_9"
+2014-08-20T15:05:37: Analyzing "encodings.johab"
+2014-08-20T15:05:37: Analyzing "encodings.koi8_r"
+2014-08-20T15:05:37: Analyzing "encodings.koi8_u"
+2014-08-20T15:05:37: Analyzing "encodings.latin_1"
+2014-08-20T15:05:37: Analyzing "encodings.mac_arabic"
+2014-08-20T15:05:37: Analyzing "encodings.mac_centeuro"
+2014-08-20T15:05:37: Analyzing "encodings.mac_croatian"
+2014-08-20T15:05:37: Analyzing "encodings.mac_cyrillic"
+2014-08-20T15:05:37: Analyzing "encodings.mac_farsi"
+2014-08-20T15:05:37: Analyzing "encodings.mac_greek"
+2014-08-20T15:05:37: Analyzing "encodings.mac_iceland"
+2014-08-20T15:05:37: Analyzing "encodings.mac_latin2"
+2014-08-20T15:05:37: Analyzing "encodings.mac_roman"
+2014-08-20T15:05:37: Analyzing "encodings.mac_romanian"
+2014-08-20T15:05:37: Analyzing "encodings.mac_turkish"
+2014-08-20T15:05:37: Analyzing "encodings.mbcs"
+2014-08-20T15:05:37: Analyzing "encodings.palmos"
+2014-08-20T15:05:37: Analyzing "encodings.ptcp154"
+2014-08-20T15:05:37: Analyzing "encodings.punycode"
+2014-08-20T15:05:37: Analyzing "encodings.quopri_codec"
+2014-08-20T15:05:37: Analyzing "encodings.raw_unicode_escape"
+2014-08-20T15:05:37: Analyzing "encodings.rot_13"
+2014-08-20T15:05:37: Analyzing "encodings.shift_jis"
+2014-08-20T15:05:37: Analyzing "encodings.shift_jisx0213"
+2014-08-20T15:05:37: Analyzing "encodings.shift_jis_2004"
+2014-08-20T15:05:37: Analyzing "encodings.string_escape"
+2014-08-20T15:05:37: Analyzing "encodings.tis_620"
+2014-08-20T15:05:37: Analyzing "encodings.undefined"
+2014-08-20T15:05:37: Analyzing "encodings.unicode_escape"
+2014-08-20T15:05:37: Analyzing "encodings.unicode_internal"
+2014-08-20T15:05:37: Analyzing "encodings.utf_16"
+2014-08-20T15:05:37: Analyzing "encodings.utf_16_be"
+2014-08-20T15:05:37: Analyzing "encodings.utf_16_le"
+2014-08-20T15:05:37: Analyzing "encodings.utf_32"
+2014-08-20T15:05:37: Analyzing "encodings.utf_32_be"
+2014-08-20T15:05:37: Analyzing "encodings.utf_32_le"
+2014-08-20T15:05:37: Analyzing "encodings.utf_7"
+2014-08-20T15:05:37: Analyzing "encodings.utf_8"
+2014-08-20T15:05:37: Analyzing "encodings.utf_8_sig"
+2014-08-20T15:05:37: Analyzing "encodings.uu_codec"
+2014-08-20T15:05:37: Analyzing "encodings.zlib_codec"
+2014-08-20T15:05:37: Analyzing "encodings"
+2014-08-20T15:05:37: Starting analysis of 143 modules
+2014-08-20T15:05:39: Analysis complete
+2014-08-20T15:05:39: Saving group "D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib"
+2014-08-20T15:05:39: End of group "D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib"
+2014-08-20T15:05:39: Start group "D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages" with 5 files
+2014-08-20T15:05:41: Parsing "easy_install" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\easy_install.py")
+2014-08-20T15:05:41: Parsing "pkg_resources" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pkg_resources.py")
+2014-08-20T15:05:41: Parsing "six" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\six.py")
+2014-08-20T15:05:41: Parsing "update_checker" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\update_checker.py")
+2014-08-20T15:05:41: Parsing "update_checker_test" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\update_checker_test.py")
+2014-08-20T15:05:41: Parsing complete
+2014-08-20T15:05:41: Analyzing "easy_install"
+2014-08-20T15:05:41: Analyzing "pkg_resources"
+2014-08-20T15:05:41: Analyzing "six"
+2014-08-20T15:05:41: Analyzing "update_checker"
+2014-08-20T15:05:41: Analyzing "update_checker_test"
+2014-08-20T15:05:41: Starting analysis of 5 modules
+2014-08-20T15:05:41: Analysis complete
+2014-08-20T15:05:41: Saving group "D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages"
+2014-08-20T15:05:42: End of group "D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages"
+2014-08-20T15:05:42: Start group "D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Scripts" with 1 files
+2014-08-20T15:05:43: Parsing "activate_this" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Scripts\activate_this.py")
+2014-08-20T15:05:43: Parsing complete
+2014-08-20T15:05:43: Analyzing "activate_this"
+2014-08-20T15:05:43: Starting analysis of 1 modules
+2014-08-20T15:05:43: Analysis complete
+2014-08-20T15:05:43: Saving group "D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Scripts"
+2014-08-20T15:05:43: End of group "D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Scripts"
+2014-08-20T15:05:43: Start group "D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip" with 208 files
+2014-08-20T15:05:45: Parsing "pip.basecommand" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\basecommand.py")
+2014-08-20T15:05:45: Parsing "pip.baseparser" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\baseparser.py")
+2014-08-20T15:05:45: Parsing "pip.cmdoptions" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\cmdoptions.py")
+2014-08-20T15:05:45: Parsing "pip.download" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\download.py")
+2014-08-20T15:05:45: Parsing "pip.exceptions" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\exceptions.py")
+2014-08-20T15:05:45: Parsing "pip.index" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\index.py")
+2014-08-20T15:05:45: Parsing "pip.locations" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\locations.py")
+2014-08-20T15:05:45: Parsing "pip.log" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\log.py")
+2014-08-20T15:05:45: Parsing "pip.pep425tags" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\pep425tags.py")
+2014-08-20T15:05:45: Parsing "pip.req" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\req.py")
+2014-08-20T15:05:45: Parsing "pip.runner" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\runner.py")
+2014-08-20T15:05:45: Parsing "pip.status_codes" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\status_codes.py")
+2014-08-20T15:05:45: Parsing "pip.util" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\util.py")
+2014-08-20T15:05:45: Parsing "pip.wheel" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\wheel.py")
+2014-08-20T15:05:45: Parsing "pip" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\__init__.py")
+2014-08-20T15:05:45: Parsing "pip.__main__" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\__main__.py")
+2014-08-20T15:05:45: Parsing "pip.backwardcompat" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\backwardcompat\__init__.py")
+2014-08-20T15:05:45: Parsing "pip.commands.bundle" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\commands\bundle.py")
+2014-08-20T15:05:45: Parsing "pip.commands.completion" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\commands\completion.py")
+2014-08-20T15:05:45: Parsing "pip.commands.freeze" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\commands\freeze.py")
+2014-08-20T15:05:45: Parsing "pip.commands.help" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\commands\help.py")
+2014-08-20T15:05:45: Parsing "pip.commands.install" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\commands\install.py")
+2014-08-20T15:05:45: Parsing "pip.commands.list" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\commands\list.py")
+2014-08-20T15:05:45: Parsing "pip.commands.search" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\commands\search.py")
+2014-08-20T15:05:45: Parsing "pip.commands.show" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\commands\show.py")
+2014-08-20T15:05:45: Parsing "pip.commands.uninstall" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\commands\uninstall.py")
+2014-08-20T15:05:45: Parsing "pip.commands.unzip" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\commands\unzip.py")
+2014-08-20T15:05:45: Parsing "pip.commands.wheel" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\commands\wheel.py")
+2014-08-20T15:05:45: Parsing "pip.commands.zip" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\commands\zip.py")
+2014-08-20T15:05:45: Parsing "pip.commands" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\commands\__init__.py")
+2014-08-20T15:05:45: Parsing "pip.vcs.bazaar" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\vcs\bazaar.py")
+2014-08-20T15:05:45: Parsing "pip.vcs.git" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\vcs\git.py")
+2014-08-20T15:05:45: Parsing "pip.vcs.mercurial" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\vcs\mercurial.py")
+2014-08-20T15:05:45: Parsing "pip.vcs.subversion" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\vcs\subversion.py")
+2014-08-20T15:05:45: Parsing "pip.vcs" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\vcs\__init__.py")
+2014-08-20T15:05:45: Parsing "pip._vendor.pkg_resources" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\_vendor\pkg_resources.py")
+2014-08-20T15:05:45: Parsing "pip._vendor.six" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\_vendor\six.py")
+2014-08-20T15:05:45: Parsing "pip._vendor" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\_vendor\__init__.py")
+2014-08-20T15:05:45: Parsing "pip._vendor.colorama.ansi" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\_vendor\colorama\ansi.py")
+2014-08-20T15:05:45: Parsing "pip._vendor.colorama.ansitowin32" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\_vendor\colorama\ansitowin32.py")
+2014-08-20T15:05:45: Parsing "pip._vendor.colorama.initialise" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\_vendor\colorama\initialise.py")
+2014-08-20T15:05:45: Parsing "pip._vendor.colorama.win32" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\_vendor\colorama\win32.py")
+2014-08-20T15:05:45: Parsing "pip._vendor.colorama.winterm" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\_vendor\colorama\winterm.py")
+2014-08-20T15:05:45: Parsing "pip._vendor.colorama" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\_vendor\colorama\__init__.py")
+2014-08-20T15:05:45: Parsing "pip._vendor.distlib.compat" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\_vendor\distlib\compat.py")
+2014-08-20T15:05:45: Parsing "pip._vendor.distlib.database" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\_vendor\distlib\database.py")
+2014-08-20T15:05:45: Parsing "pip._vendor.distlib.index" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\_vendor\distlib\index.py")
+2014-08-20T15:05:45: Parsing "pip._vendor.distlib.locators" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\_vendor\distlib\locators.py")
+2014-08-20T15:05:45: Parsing "pip._vendor.distlib.manifest" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\_vendor\distlib\manifest.py")
+2014-08-20T15:05:45: Parsing "pip._vendor.distlib.markers" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\_vendor\distlib\markers.py")
+2014-08-20T15:05:45: Parsing "pip._vendor.distlib.metadata" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\_vendor\distlib\metadata.py")
+2014-08-20T15:05:45: Parsing "pip._vendor.distlib.resources" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\_vendor\distlib\resources.py")
+2014-08-20T15:05:45: Parsing "pip._vendor.distlib.scripts" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\_vendor\distlib\scripts.py")
+2014-08-20T15:05:45: Parsing "pip._vendor.distlib.util" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\_vendor\distlib\util.py")
+2014-08-20T15:05:45: Parsing "pip._vendor.distlib.version" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\_vendor\distlib\version.py")
+2014-08-20T15:05:45: Parsing "pip._vendor.distlib.wheel" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\_vendor\distlib\wheel.py")
+2014-08-20T15:05:45: Parsing "pip._vendor.distlib" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\_vendor\distlib\__init__.py")
+2014-08-20T15:05:45: Parsing "pip._vendor.distlib._backport.misc" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\_vendor\distlib\_backport\misc.py")
+2014-08-20T15:05:45: Parsing "pip._vendor.distlib._backport.shutil" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\_vendor\distlib\_backport\shutil.py")
+2014-08-20T15:05:45: Parsing "pip._vendor.distlib._backport.sysconfig" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\_vendor\distlib\_backport\sysconfig.py")
+2014-08-20T15:05:45: Parsing "pip._vendor.distlib._backport.tarfile" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\_vendor\distlib\_backport\tarfile.py")
+2014-08-20T15:05:45: Parsing "pip._vendor.distlib._backport" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\_vendor\distlib\_backport\__init__.py")
+2014-08-20T15:05:45: Parsing "pip._vendor.html5lib.constants" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\_vendor\html5lib\constants.py")
+2014-08-20T15:05:45: Parsing "pip._vendor.html5lib.html5parser" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\_vendor\html5lib\html5parser.py")
+2014-08-20T15:05:45: Parsing "pip._vendor.html5lib.ihatexml" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\_vendor\html5lib\ihatexml.py")
+2014-08-20T15:05:45: Parsing "pip._vendor.html5lib.inputstream" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\_vendor\html5lib\inputstream.py")
+2014-08-20T15:05:45: Parsing "pip._vendor.html5lib.sanitizer" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\_vendor\html5lib\sanitizer.py")
+2014-08-20T15:05:45: Parsing "pip._vendor.html5lib.tokenizer" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\_vendor\html5lib\tokenizer.py")
+2014-08-20T15:05:45: Parsing "pip._vendor.html5lib.utils" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\_vendor\html5lib\utils.py")
+2014-08-20T15:05:45: Parsing "pip._vendor.html5lib" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\_vendor\html5lib\__init__.py")
+2014-08-20T15:05:45: Parsing "pip._vendor.html5lib.filters.alphabeticalattributes" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\_vendor\html5lib\filters\alphabeticalattributes.py")
+2014-08-20T15:05:45: Parsing "pip._vendor.html5lib.filters.inject_meta_charset" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\_vendor\html5lib\filters\inject_meta_charset.py")
+2014-08-20T15:05:45: Parsing "pip._vendor.html5lib.filters.lint" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\_vendor\html5lib\filters\lint.py")
+2014-08-20T15:05:45: Parsing "pip._vendor.html5lib.filters.optionaltags" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\_vendor\html5lib\filters\optionaltags.py")
+2014-08-20T15:05:45: Parsing "pip._vendor.html5lib.filters.sanitizer" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\_vendor\html5lib\filters\sanitizer.py")
+2014-08-20T15:05:45: Parsing "pip._vendor.html5lib.filters.whitespace" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\_vendor\html5lib\filters\whitespace.py")
+2014-08-20T15:05:45: Parsing "pip._vendor.html5lib.filters._base" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\_vendor\html5lib\filters\_base.py")
+2014-08-20T15:05:45: Parsing "pip._vendor.html5lib.filters" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\_vendor\html5lib\filters\__init__.py")
+2014-08-20T15:05:45: Parsing "pip._vendor.html5lib.serializer.htmlserializer" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\_vendor\html5lib\serializer\htmlserializer.py")
+2014-08-20T15:05:45: Parsing "pip._vendor.html5lib.serializer" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\_vendor\html5lib\serializer\__init__.py")
+2014-08-20T15:05:45: Parsing "pip._vendor.html5lib.treebuilders.dom" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\_vendor\html5lib\treebuilders\dom.py")
+2014-08-20T15:05:45: Parsing "pip._vendor.html5lib.treebuilders.etree" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\_vendor\html5lib\treebuilders\etree.py")
+2014-08-20T15:05:45: Parsing "pip._vendor.html5lib.treebuilders.etree_lxml" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\_vendor\html5lib\treebuilders\etree_lxml.py")
+2014-08-20T15:05:45: Parsing "pip._vendor.html5lib.treebuilders._base" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\_vendor\html5lib\treebuilders\_base.py")
+2014-08-20T15:05:45: Parsing "pip._vendor.html5lib.treebuilders" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\_vendor\html5lib\treebuilders\__init__.py")
+2014-08-20T15:05:45: Parsing "pip._vendor.html5lib.treewalkers.dom" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\_vendor\html5lib\treewalkers\dom.py")
+2014-08-20T15:05:45: Parsing "pip._vendor.html5lib.treewalkers.etree" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\_vendor\html5lib\treewalkers\etree.py")
+2014-08-20T15:05:45: Parsing "pip._vendor.html5lib.treewalkers.genshistream" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\_vendor\html5lib\treewalkers\genshistream.py")
+2014-08-20T15:05:45: Parsing "pip._vendor.html5lib.treewalkers.lxmletree" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\_vendor\html5lib\treewalkers\lxmletree.py")
+2014-08-20T15:05:45: Parsing "pip._vendor.html5lib.treewalkers.pulldom" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\_vendor\html5lib\treewalkers\pulldom.py")
+2014-08-20T15:05:45: Parsing "pip._vendor.html5lib.treewalkers._base" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\_vendor\html5lib\treewalkers\_base.py")
+2014-08-20T15:05:45: Parsing "pip._vendor.html5lib.treewalkers" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\_vendor\html5lib\treewalkers\__init__.py")
+2014-08-20T15:05:45: Parsing "pip._vendor.html5lib.trie.datrie" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\_vendor\html5lib\trie\datrie.py")
+2014-08-20T15:05:45: Parsing "pip._vendor.html5lib.trie.py" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\_vendor\html5lib\trie\py.py")
+2014-08-20T15:05:45: Parsing "pip._vendor.html5lib.trie._base" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\_vendor\html5lib\trie\_base.py")
+2014-08-20T15:05:45: Parsing "pip._vendor.html5lib.trie" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\_vendor\html5lib\trie\__init__.py")
+2014-08-20T15:05:45: Parsing "pip._vendor.requests.adapters" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\_vendor\requests\adapters.py")
+2014-08-20T15:05:45: Parsing "pip._vendor.requests.api" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\_vendor\requests\api.py")
+2014-08-20T15:05:45: Parsing "pip._vendor.requests.auth" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\_vendor\requests\auth.py")
+2014-08-20T15:05:45: Parsing "pip._vendor.requests.certs" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\_vendor\requests\certs.py")
+2014-08-20T15:05:45: Parsing "pip._vendor.requests.compat" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\_vendor\requests\compat.py")
+2014-08-20T15:05:45: Parsing "pip._vendor.requests.cookies" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\_vendor\requests\cookies.py")
+2014-08-20T15:05:45: Parsing "pip._vendor.requests.exceptions" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\_vendor\requests\exceptions.py")
+2014-08-20T15:05:45: Parsing "pip._vendor.requests.hooks" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\_vendor\requests\hooks.py")
+2014-08-20T15:05:45: Parsing "pip._vendor.requests.models" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\_vendor\requests\models.py")
+2014-08-20T15:05:45: Parsing "pip._vendor.requests.sessions" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\_vendor\requests\sessions.py")
+2014-08-20T15:05:45: Parsing "pip._vendor.requests.status_codes" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\_vendor\requests\status_codes.py")
+2014-08-20T15:05:45: Parsing "pip._vendor.requests.structures" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\_vendor\requests\structures.py")
+2014-08-20T15:05:45: Parsing "pip._vendor.requests.utils" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\_vendor\requests\utils.py")
+2014-08-20T15:05:45: Parsing "pip._vendor.requests" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\_vendor\requests\__init__.py")
+2014-08-20T15:05:45: Parsing "pip._vendor.requests.packages" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\_vendor\requests\packages\__init__.py")
+2014-08-20T15:05:45: Parsing "pip._vendor.requests.packages.charade.big5freq" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\_vendor\requests\packages\charade\big5freq.py")
+2014-08-20T15:05:45: Parsing "pip._vendor.requests.packages.charade.big5prober" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\_vendor\requests\packages\charade\big5prober.py")
+2014-08-20T15:05:45: Parsing "pip._vendor.requests.packages.charade.chardistribution" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\_vendor\requests\packages\charade\chardistribution.py")
+2014-08-20T15:05:45: Parsing "pip._vendor.requests.packages.charade.charsetgroupprober" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\_vendor\requests\packages\charade\charsetgroupprober.py")
+2014-08-20T15:05:45: Parsing "pip._vendor.requests.packages.charade.charsetprober" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\_vendor\requests\packages\charade\charsetprober.py")
+2014-08-20T15:05:45: Parsing "pip._vendor.requests.packages.charade.codingstatemachine" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\_vendor\requests\packages\charade\codingstatemachine.py")
+2014-08-20T15:05:45: Parsing "pip._vendor.requests.packages.charade.compat" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\_vendor\requests\packages\charade\compat.py")
+2014-08-20T15:05:45: Parsing "pip._vendor.requests.packages.charade.constants" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\_vendor\requests\packages\charade\constants.py")
+2014-08-20T15:05:45: Parsing "pip._vendor.requests.packages.charade.cp949prober" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\_vendor\requests\packages\charade\cp949prober.py")
+2014-08-20T15:05:45: Parsing "pip._vendor.requests.packages.charade.escprober" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\_vendor\requests\packages\charade\escprober.py")
+2014-08-20T15:05:45: Parsing "pip._vendor.requests.packages.charade.escsm" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\_vendor\requests\packages\charade\escsm.py")
+2014-08-20T15:05:45: Parsing "pip._vendor.requests.packages.charade.eucjpprober" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\_vendor\requests\packages\charade\eucjpprober.py")
+2014-08-20T15:05:45: Parsing "pip._vendor.requests.packages.charade.euckrfreq" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\_vendor\requests\packages\charade\euckrfreq.py")
+2014-08-20T15:05:45: Parsing "pip._vendor.requests.packages.charade.euckrprober" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\_vendor\requests\packages\charade\euckrprober.py")
+2014-08-20T15:05:45: Parsing "pip._vendor.requests.packages.charade.euctwfreq" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\_vendor\requests\packages\charade\euctwfreq.py")
+2014-08-20T15:05:45: Parsing "pip._vendor.requests.packages.charade.euctwprober" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\_vendor\requests\packages\charade\euctwprober.py")
+2014-08-20T15:05:45: Parsing "pip._vendor.requests.packages.charade.gb2312freq" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\_vendor\requests\packages\charade\gb2312freq.py")
+2014-08-20T15:05:45: Parsing "pip._vendor.requests.packages.charade.gb2312prober" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\_vendor\requests\packages\charade\gb2312prober.py")
+2014-08-20T15:05:45: Parsing "pip._vendor.requests.packages.charade.hebrewprober" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\_vendor\requests\packages\charade\hebrewprober.py")
+2014-08-20T15:05:45: Parsing "pip._vendor.requests.packages.charade.jisfreq" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\_vendor\requests\packages\charade\jisfreq.py")
+2014-08-20T15:05:45: Parsing "pip._vendor.requests.packages.charade.jpcntx" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\_vendor\requests\packages\charade\jpcntx.py")
+2014-08-20T15:05:45: Parsing "pip._vendor.requests.packages.charade.langbulgarianmodel" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\_vendor\requests\packages\charade\langbulgarianmodel.py")
+2014-08-20T15:05:45: Parsing "pip._vendor.requests.packages.charade.langcyrillicmodel" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\_vendor\requests\packages\charade\langcyrillicmodel.py")
+2014-08-20T15:05:46: Parsing "pip._vendor.requests.packages.charade.langgreekmodel" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\_vendor\requests\packages\charade\langgreekmodel.py")
+2014-08-20T15:05:46: Parsing "pip._vendor.requests.packages.charade.langhebrewmodel" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\_vendor\requests\packages\charade\langhebrewmodel.py")
+2014-08-20T15:05:46: Parsing "pip._vendor.requests.packages.charade.langhungarianmodel" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\_vendor\requests\packages\charade\langhungarianmodel.py")
+2014-08-20T15:05:46: Parsing "pip._vendor.requests.packages.charade.langthaimodel" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\_vendor\requests\packages\charade\langthaimodel.py")
+2014-08-20T15:05:46: Parsing "pip._vendor.requests.packages.charade.latin1prober" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\_vendor\requests\packages\charade\latin1prober.py")
+2014-08-20T15:05:46: Parsing "pip._vendor.requests.packages.charade.mbcharsetprober" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\_vendor\requests\packages\charade\mbcharsetprober.py")
+2014-08-20T15:05:46: Parsing "pip._vendor.requests.packages.charade.mbcsgroupprober" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\_vendor\requests\packages\charade\mbcsgroupprober.py")
+2014-08-20T15:05:46: Parsing "pip._vendor.requests.packages.charade.mbcssm" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\_vendor\requests\packages\charade\mbcssm.py")
+2014-08-20T15:05:46: Parsing "pip._vendor.requests.packages.charade.sbcharsetprober" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\_vendor\requests\packages\charade\sbcharsetprober.py")
+2014-08-20T15:05:46: Parsing "pip._vendor.requests.packages.charade.sbcsgroupprober" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\_vendor\requests\packages\charade\sbcsgroupprober.py")
+2014-08-20T15:05:46: Parsing "pip._vendor.requests.packages.charade.sjisprober" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\_vendor\requests\packages\charade\sjisprober.py")
+2014-08-20T15:05:46: Parsing "pip._vendor.requests.packages.charade.universaldetector" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\_vendor\requests\packages\charade\universaldetector.py")
+2014-08-20T15:05:46: Parsing "pip._vendor.requests.packages.charade.utf8prober" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\_vendor\requests\packages\charade\utf8prober.py")
+2014-08-20T15:05:46: Parsing "pip._vendor.requests.packages.charade" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\_vendor\requests\packages\charade\__init__.py")
+2014-08-20T15:05:46: Parsing "pip._vendor.requests.packages.charade.__main__" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\_vendor\requests\packages\charade\__main__.py")
+2014-08-20T15:05:46: Parsing "pip._vendor.requests.packages.chardet.big5freq" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\_vendor\requests\packages\chardet\big5freq.py")
+2014-08-20T15:05:46: Parsing "pip._vendor.requests.packages.chardet.big5prober" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\_vendor\requests\packages\chardet\big5prober.py")
+2014-08-20T15:05:46: Parsing "pip._vendor.requests.packages.chardet.chardetect" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\_vendor\requests\packages\chardet\chardetect.py")
+2014-08-20T15:05:46: Parsing "pip._vendor.requests.packages.chardet.chardistribution" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\_vendor\requests\packages\chardet\chardistribution.py")
+2014-08-20T15:05:46: Parsing "pip._vendor.requests.packages.chardet.charsetgroupprober" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\_vendor\requests\packages\chardet\charsetgroupprober.py")
+2014-08-20T15:05:46: Parsing "pip._vendor.requests.packages.chardet.charsetprober" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\_vendor\requests\packages\chardet\charsetprober.py")
+2014-08-20T15:05:46: Parsing "pip._vendor.requests.packages.chardet.codingstatemachine" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\_vendor\requests\packages\chardet\codingstatemachine.py")
+2014-08-20T15:05:46: Parsing "pip._vendor.requests.packages.chardet.compat" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\_vendor\requests\packages\chardet\compat.py")
+2014-08-20T15:05:46: Parsing "pip._vendor.requests.packages.chardet.constants" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\_vendor\requests\packages\chardet\constants.py")
+2014-08-20T15:05:46: Parsing "pip._vendor.requests.packages.chardet.cp949prober" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\_vendor\requests\packages\chardet\cp949prober.py")
+2014-08-20T15:05:46: Parsing "pip._vendor.requests.packages.chardet.escprober" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\_vendor\requests\packages\chardet\escprober.py")
+2014-08-20T15:05:46: Parsing "pip._vendor.requests.packages.chardet.escsm" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\_vendor\requests\packages\chardet\escsm.py")
+2014-08-20T15:05:46: Parsing "pip._vendor.requests.packages.chardet.eucjpprober" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\_vendor\requests\packages\chardet\eucjpprober.py")
+2014-08-20T15:05:46: Parsing "pip._vendor.requests.packages.chardet.euckrfreq" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\_vendor\requests\packages\chardet\euckrfreq.py")
+2014-08-20T15:05:46: Parsing "pip._vendor.requests.packages.chardet.euckrprober" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\_vendor\requests\packages\chardet\euckrprober.py")
+2014-08-20T15:05:46: Parsing "pip._vendor.requests.packages.chardet.euctwfreq" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\_vendor\requests\packages\chardet\euctwfreq.py")
+2014-08-20T15:05:46: Parsing "pip._vendor.requests.packages.chardet.euctwprober" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\_vendor\requests\packages\chardet\euctwprober.py")
+2014-08-20T15:05:46: Parsing "pip._vendor.requests.packages.chardet.gb2312freq" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\_vendor\requests\packages\chardet\gb2312freq.py")
+2014-08-20T15:05:46: Parsing "pip._vendor.requests.packages.chardet.gb2312prober" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\_vendor\requests\packages\chardet\gb2312prober.py")
+2014-08-20T15:05:46: Parsing "pip._vendor.requests.packages.chardet.hebrewprober" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\_vendor\requests\packages\chardet\hebrewprober.py")
+2014-08-20T15:05:46: Parsing "pip._vendor.requests.packages.chardet.jisfreq" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\_vendor\requests\packages\chardet\jisfreq.py")
+2014-08-20T15:05:46: Parsing "pip._vendor.requests.packages.chardet.jpcntx" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\_vendor\requests\packages\chardet\jpcntx.py")
+2014-08-20T15:05:46: Parsing "pip._vendor.requests.packages.chardet.langbulgarianmodel" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\_vendor\requests\packages\chardet\langbulgarianmodel.py")
+2014-08-20T15:05:46: Parsing "pip._vendor.requests.packages.chardet.langcyrillicmodel" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\_vendor\requests\packages\chardet\langcyrillicmodel.py")
+2014-08-20T15:05:46: Parsing "pip._vendor.requests.packages.chardet.langgreekmodel" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\_vendor\requests\packages\chardet\langgreekmodel.py")
+2014-08-20T15:05:46: Parsing "pip._vendor.requests.packages.chardet.langhebrewmodel" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\_vendor\requests\packages\chardet\langhebrewmodel.py")
+2014-08-20T15:05:46: Parsing "pip._vendor.requests.packages.chardet.langhungarianmodel" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\_vendor\requests\packages\chardet\langhungarianmodel.py")
+2014-08-20T15:05:46: Parsing "pip._vendor.requests.packages.chardet.langthaimodel" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\_vendor\requests\packages\chardet\langthaimodel.py")
+2014-08-20T15:05:46: Parsing "pip._vendor.requests.packages.chardet.latin1prober" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\_vendor\requests\packages\chardet\latin1prober.py")
+2014-08-20T15:05:46: Parsing "pip._vendor.requests.packages.chardet.mbcharsetprober" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\_vendor\requests\packages\chardet\mbcharsetprober.py")
+2014-08-20T15:05:46: Parsing "pip._vendor.requests.packages.chardet.mbcsgroupprober" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\_vendor\requests\packages\chardet\mbcsgroupprober.py")
+2014-08-20T15:05:46: Parsing "pip._vendor.requests.packages.chardet.mbcssm" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\_vendor\requests\packages\chardet\mbcssm.py")
+2014-08-20T15:05:46: Parsing "pip._vendor.requests.packages.chardet.sbcharsetprober" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\_vendor\requests\packages\chardet\sbcharsetprober.py")
+2014-08-20T15:05:46: Parsing "pip._vendor.requests.packages.chardet.sbcsgroupprober" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\_vendor\requests\packages\chardet\sbcsgroupprober.py")
+2014-08-20T15:05:46: Parsing "pip._vendor.requests.packages.chardet.sjisprober" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\_vendor\requests\packages\chardet\sjisprober.py")
+2014-08-20T15:05:46: Parsing "pip._vendor.requests.packages.chardet.universaldetector" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\_vendor\requests\packages\chardet\universaldetector.py")
+2014-08-20T15:05:46: Parsing "pip._vendor.requests.packages.chardet.utf8prober" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\_vendor\requests\packages\chardet\utf8prober.py")
+2014-08-20T15:05:46: Parsing "pip._vendor.requests.packages.chardet" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\_vendor\requests\packages\chardet\__init__.py")
+2014-08-20T15:05:46: Parsing "pip._vendor.requests.packages.urllib3.connection" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\_vendor\requests\packages\urllib3\connection.py")
+2014-08-20T15:05:46: Parsing "pip._vendor.requests.packages.urllib3.connectionpool" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\_vendor\requests\packages\urllib3\connectionpool.py")
+2014-08-20T15:05:46: Parsing "pip._vendor.requests.packages.urllib3.exceptions" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\_vendor\requests\packages\urllib3\exceptions.py")
+2014-08-20T15:05:46: Parsing "pip._vendor.requests.packages.urllib3.fields" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\_vendor\requests\packages\urllib3\fields.py")
+2014-08-20T15:05:46: Parsing "pip._vendor.requests.packages.urllib3.filepost" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\_vendor\requests\packages\urllib3\filepost.py")
+2014-08-20T15:05:46: Parsing "pip._vendor.requests.packages.urllib3.poolmanager" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\_vendor\requests\packages\urllib3\poolmanager.py")
+2014-08-20T15:05:46: Parsing "pip._vendor.requests.packages.urllib3.request" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\_vendor\requests\packages\urllib3\request.py")
+2014-08-20T15:05:46: Parsing "pip._vendor.requests.packages.urllib3.response" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\_vendor\requests\packages\urllib3\response.py")
+2014-08-20T15:05:46: Parsing "pip._vendor.requests.packages.urllib3.util" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\_vendor\requests\packages\urllib3\util.py")
+2014-08-20T15:05:46: Parsing "pip._vendor.requests.packages.urllib3._collections" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\_vendor\requests\packages\urllib3\_collections.py")
+2014-08-20T15:05:46: Parsing "pip._vendor.requests.packages.urllib3" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\_vendor\requests\packages\urllib3\__init__.py")
+2014-08-20T15:05:46: Parsing "pip._vendor.requests.packages.urllib3.contrib.ntlmpool" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\_vendor\requests\packages\urllib3\contrib\ntlmpool.py")
+2014-08-20T15:05:46: Parsing "pip._vendor.requests.packages.urllib3.contrib.pyopenssl" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\_vendor\requests\packages\urllib3\contrib\pyopenssl.py")
+2014-08-20T15:05:46: Parsing "pip._vendor.requests.packages.urllib3.contrib" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\_vendor\requests\packages\urllib3\contrib\__init__.py")
+2014-08-20T15:05:46: Parsing "pip._vendor.requests.packages.urllib3.packages.ordered_dict" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\_vendor\requests\packages\urllib3\packages\ordered_dict.py")
+2014-08-20T15:05:46: Parsing "pip._vendor.requests.packages.urllib3.packages.six" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\_vendor\requests\packages\urllib3\packages\six.py")
+2014-08-20T15:05:46: Parsing "pip._vendor.requests.packages.urllib3.packages" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\_vendor\requests\packages\urllib3\packages\__init__.py")
+2014-08-20T15:05:46: Parsing "pip._vendor.requests.packages.urllib3.packages.ssl_match_hostname._implementation" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\_vendor\requests\packages\urllib3\packages\ssl_match_hostname\_implementation.py")
+2014-08-20T15:05:46: Parsing "pip._vendor.requests.packages.urllib3.packages.ssl_match_hostname" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\_vendor\requests\packages\urllib3\packages\ssl_match_hostname\__init__.py")
+2014-08-20T15:05:46: Parsing "pip._vendor._markerlib.markers" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\_vendor\_markerlib\markers.py")
+2014-08-20T15:05:46: Parsing "pip._vendor._markerlib" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip\_vendor\_markerlib\__init__.py")
+2014-08-20T15:05:46: Parsing complete
+2014-08-20T15:05:46: Analyzing "pip.basecommand"
+2014-08-20T15:05:46: Analyzing "pip.baseparser"
+2014-08-20T15:05:46: Analyzing "pip.cmdoptions"
+2014-08-20T15:05:46: Analyzing "pip.download"
+2014-08-20T15:05:46: Analyzing "pip.exceptions"
+2014-08-20T15:05:46: Analyzing "pip.index"
+2014-08-20T15:05:46: Analyzing "pip.locations"
+2014-08-20T15:05:46: Analyzing "pip.log"
+2014-08-20T15:05:46: Analyzing "pip.pep425tags"
+2014-08-20T15:05:46: Analyzing "pip.req"
+2014-08-20T15:05:46: Analyzing "pip.runner"
+2014-08-20T15:05:46: Analyzing "pip.status_codes"
+2014-08-20T15:05:46: Analyzing "pip.util"
+2014-08-20T15:05:46: Analyzing "pip.wheel"
+2014-08-20T15:05:46: Analyzing "pip"
+2014-08-20T15:05:46: Analyzing "pip.__main__"
+2014-08-20T15:05:46: Analyzing "pip.backwardcompat"
+2014-08-20T15:05:46: Analyzing "pip.commands.bundle"
+2014-08-20T15:05:46: Analyzing "pip.commands.completion"
+2014-08-20T15:05:46: Analyzing "pip.commands.freeze"
+2014-08-20T15:05:46: Analyzing "pip.commands.help"
+2014-08-20T15:05:46: Analyzing "pip.commands.install"
+2014-08-20T15:05:46: Analyzing "pip.commands.list"
+2014-08-20T15:05:46: Analyzing "pip.commands.search"
+2014-08-20T15:05:46: Analyzing "pip.commands.show"
+2014-08-20T15:05:46: Analyzing "pip.commands.uninstall"
+2014-08-20T15:05:46: Analyzing "pip.commands.unzip"
+2014-08-20T15:05:46: Analyzing "pip.commands.wheel"
+2014-08-20T15:05:46: Analyzing "pip.commands.zip"
+2014-08-20T15:05:46: Analyzing "pip.commands"
+2014-08-20T15:05:46: Analyzing "pip.vcs.bazaar"
+2014-08-20T15:05:46: Analyzing "pip.vcs.git"
+2014-08-20T15:05:46: Analyzing "pip.vcs.mercurial"
+2014-08-20T15:05:46: Analyzing "pip.vcs.subversion"
+2014-08-20T15:05:46: Analyzing "pip.vcs"
+2014-08-20T15:05:46: Analyzing "pip._vendor.pkg_resources"
+2014-08-20T15:05:46: Analyzing "pip._vendor.six"
+2014-08-20T15:05:46: Analyzing "pip._vendor"
+2014-08-20T15:05:46: Analyzing "pip._vendor.colorama.ansi"
+2014-08-20T15:05:46: Analyzing "pip._vendor.colorama.ansitowin32"
+2014-08-20T15:05:46: Analyzing "pip._vendor.colorama.initialise"
+2014-08-20T15:05:46: Analyzing "pip._vendor.colorama.win32"
+2014-08-20T15:05:46: Analyzing "pip._vendor.colorama.winterm"
+2014-08-20T15:05:46: Analyzing "pip._vendor.colorama"
+2014-08-20T15:05:46: Analyzing "pip._vendor.distlib.compat"
+2014-08-20T15:05:46: Analyzing "pip._vendor.distlib.database"
+2014-08-20T15:05:46: Analyzing "pip._vendor.distlib.index"
+2014-08-20T15:05:46: Analyzing "pip._vendor.distlib.locators"
+2014-08-20T15:05:46: Analyzing "pip._vendor.distlib.manifest"
+2014-08-20T15:05:46: Analyzing "pip._vendor.distlib.markers"
+2014-08-20T15:05:46: Analyzing "pip._vendor.distlib.metadata"
+2014-08-20T15:05:46: Analyzing "pip._vendor.distlib.resources"
+2014-08-20T15:05:46: Analyzing "pip._vendor.distlib.scripts"
+2014-08-20T15:05:46: Analyzing "pip._vendor.distlib.util"
+2014-08-20T15:05:46: Analyzing "pip._vendor.distlib.version"
+2014-08-20T15:05:46: Analyzing "pip._vendor.distlib.wheel"
+2014-08-20T15:05:46: Analyzing "pip._vendor.distlib"
+2014-08-20T15:05:46: Analyzing "pip._vendor.distlib._backport.misc"
+2014-08-20T15:05:46: Analyzing "pip._vendor.distlib._backport.shutil"
+2014-08-20T15:05:46: Analyzing "pip._vendor.distlib._backport.sysconfig"
+2014-08-20T15:05:46: Analyzing "pip._vendor.distlib._backport.tarfile"
+2014-08-20T15:05:46: Analyzing "pip._vendor.distlib._backport"
+2014-08-20T15:05:46: Analyzing "pip._vendor.html5lib.constants"
+2014-08-20T15:05:46: Analyzing "pip._vendor.html5lib.html5parser"
+2014-08-20T15:05:46: Analyzing "pip._vendor.html5lib.ihatexml"
+2014-08-20T15:05:46: Analyzing "pip._vendor.html5lib.inputstream"
+2014-08-20T15:05:46: Analyzing "pip._vendor.html5lib.sanitizer"
+2014-08-20T15:05:46: Analyzing "pip._vendor.html5lib.tokenizer"
+2014-08-20T15:05:46: Analyzing "pip._vendor.html5lib.utils"
+2014-08-20T15:05:46: Analyzing "pip._vendor.html5lib"
+2014-08-20T15:05:46: Analyzing "pip._vendor.html5lib.filters.alphabeticalattributes"
+2014-08-20T15:05:46: Analyzing "pip._vendor.html5lib.filters.inject_meta_charset"
+2014-08-20T15:05:46: Analyzing "pip._vendor.html5lib.filters.lint"
+2014-08-20T15:05:46: Analyzing "pip._vendor.html5lib.filters.optionaltags"
+2014-08-20T15:05:46: Analyzing "pip._vendor.html5lib.filters.sanitizer"
+2014-08-20T15:05:46: Analyzing "pip._vendor.html5lib.filters.whitespace"
+2014-08-20T15:05:46: Analyzing "pip._vendor.html5lib.filters._base"
+2014-08-20T15:05:46: Analyzing "pip._vendor.html5lib.filters"
+2014-08-20T15:05:46: Analyzing "pip._vendor.html5lib.serializer.htmlserializer"
+2014-08-20T15:05:46: Analyzing "pip._vendor.html5lib.serializer"
+2014-08-20T15:05:46: Analyzing "pip._vendor.html5lib.treebuilders.dom"
+2014-08-20T15:05:46: Analyzing "pip._vendor.html5lib.treebuilders.etree"
+2014-08-20T15:05:46: Analyzing "pip._vendor.html5lib.treebuilders.etree_lxml"
+2014-08-20T15:05:46: Analyzing "pip._vendor.html5lib.treebuilders._base"
+2014-08-20T15:05:46: Analyzing "pip._vendor.html5lib.treebuilders"
+2014-08-20T15:05:46: Analyzing "pip._vendor.html5lib.treewalkers.dom"
+2014-08-20T15:05:46: Analyzing "pip._vendor.html5lib.treewalkers.etree"
+2014-08-20T15:05:46: Analyzing "pip._vendor.html5lib.treewalkers.genshistream"
+2014-08-20T15:05:46: Analyzing "pip._vendor.html5lib.treewalkers.lxmletree"
+2014-08-20T15:05:46: Analyzing "pip._vendor.html5lib.treewalkers.pulldom"
+2014-08-20T15:05:46: Analyzing "pip._vendor.html5lib.treewalkers._base"
+2014-08-20T15:05:46: Analyzing "pip._vendor.html5lib.treewalkers"
+2014-08-20T15:05:46: Analyzing "pip._vendor.html5lib.trie.datrie"
+2014-08-20T15:05:46: Analyzing "pip._vendor.html5lib.trie.py"
+2014-08-20T15:05:46: Analyzing "pip._vendor.html5lib.trie._base"
+2014-08-20T15:05:46: Analyzing "pip._vendor.html5lib.trie"
+2014-08-20T15:05:46: Analyzing "pip._vendor.requests.adapters"
+2014-08-20T15:05:46: Analyzing "pip._vendor.requests.api"
+2014-08-20T15:05:46: Analyzing "pip._vendor.requests.auth"
+2014-08-20T15:05:46: Analyzing "pip._vendor.requests.certs"
+2014-08-20T15:05:46: Analyzing "pip._vendor.requests.compat"
+2014-08-20T15:05:46: Analyzing "pip._vendor.requests.cookies"
+2014-08-20T15:05:46: Analyzing "pip._vendor.requests.exceptions"
+2014-08-20T15:05:46: Analyzing "pip._vendor.requests.hooks"
+2014-08-20T15:05:46: Analyzing "pip._vendor.requests.models"
+2014-08-20T15:05:46: Analyzing "pip._vendor.requests.sessions"
+2014-08-20T15:05:46: Analyzing "pip._vendor.requests.status_codes"
+2014-08-20T15:05:46: Analyzing "pip._vendor.requests.structures"
+2014-08-20T15:05:46: Analyzing "pip._vendor.requests.utils"
+2014-08-20T15:05:46: Analyzing "pip._vendor.requests"
+2014-08-20T15:05:46: Analyzing "pip._vendor.requests.packages"
+2014-08-20T15:05:46: Analyzing "pip._vendor.requests.packages.charade.big5freq"
+2014-08-20T15:05:46: Analyzing "pip._vendor.requests.packages.charade.big5prober"
+2014-08-20T15:05:46: Analyzing "pip._vendor.requests.packages.charade.chardistribution"
+2014-08-20T15:05:46: Analyzing "pip._vendor.requests.packages.charade.charsetgroupprober"
+2014-08-20T15:05:46: Analyzing "pip._vendor.requests.packages.charade.charsetprober"
+2014-08-20T15:05:46: Analyzing "pip._vendor.requests.packages.charade.codingstatemachine"
+2014-08-20T15:05:46: Analyzing "pip._vendor.requests.packages.charade.compat"
+2014-08-20T15:05:46: Analyzing "pip._vendor.requests.packages.charade.constants"
+2014-08-20T15:05:46: Analyzing "pip._vendor.requests.packages.charade.cp949prober"
+2014-08-20T15:05:46: Analyzing "pip._vendor.requests.packages.charade.escprober"
+2014-08-20T15:05:46: Analyzing "pip._vendor.requests.packages.charade.escsm"
+2014-08-20T15:05:46: Analyzing "pip._vendor.requests.packages.charade.eucjpprober"
+2014-08-20T15:05:46: Analyzing "pip._vendor.requests.packages.charade.euckrfreq"
+2014-08-20T15:05:46: Analyzing "pip._vendor.requests.packages.charade.euckrprober"
+2014-08-20T15:05:46: Analyzing "pip._vendor.requests.packages.charade.euctwfreq"
+2014-08-20T15:05:46: Analyzing "pip._vendor.requests.packages.charade.euctwprober"
+2014-08-20T15:05:46: Analyzing "pip._vendor.requests.packages.charade.gb2312freq"
+2014-08-20T15:05:46: Analyzing "pip._vendor.requests.packages.charade.gb2312prober"
+2014-08-20T15:05:46: Analyzing "pip._vendor.requests.packages.charade.hebrewprober"
+2014-08-20T15:05:46: Analyzing "pip._vendor.requests.packages.charade.jisfreq"
+2014-08-20T15:05:46: Analyzing "pip._vendor.requests.packages.charade.jpcntx"
+2014-08-20T15:05:46: Analyzing "pip._vendor.requests.packages.charade.langbulgarianmodel"
+2014-08-20T15:05:46: Analyzing "pip._vendor.requests.packages.charade.langcyrillicmodel"
+2014-08-20T15:05:46: Analyzing "pip._vendor.requests.packages.charade.langgreekmodel"
+2014-08-20T15:05:46: Analyzing "pip._vendor.requests.packages.charade.langhebrewmodel"
+2014-08-20T15:05:46: Analyzing "pip._vendor.requests.packages.charade.langhungarianmodel"
+2014-08-20T15:05:46: Analyzing "pip._vendor.requests.packages.charade.langthaimodel"
+2014-08-20T15:05:46: Analyzing "pip._vendor.requests.packages.charade.latin1prober"
+2014-08-20T15:05:46: Analyzing "pip._vendor.requests.packages.charade.mbcharsetprober"
+2014-08-20T15:05:46: Analyzing "pip._vendor.requests.packages.charade.mbcsgroupprober"
+2014-08-20T15:05:46: Analyzing "pip._vendor.requests.packages.charade.mbcssm"
+2014-08-20T15:05:46: Analyzing "pip._vendor.requests.packages.charade.sbcharsetprober"
+2014-08-20T15:05:46: Analyzing "pip._vendor.requests.packages.charade.sbcsgroupprober"
+2014-08-20T15:05:46: Analyzing "pip._vendor.requests.packages.charade.sjisprober"
+2014-08-20T15:05:46: Analyzing "pip._vendor.requests.packages.charade.universaldetector"
+2014-08-20T15:05:46: Analyzing "pip._vendor.requests.packages.charade.utf8prober"
+2014-08-20T15:05:46: Analyzing "pip._vendor.requests.packages.charade"
+2014-08-20T15:05:46: Analyzing "pip._vendor.requests.packages.charade.__main__"
+2014-08-20T15:05:46: Analyzing "pip._vendor.requests.packages.chardet.big5freq"
+2014-08-20T15:05:46: Analyzing "pip._vendor.requests.packages.chardet.big5prober"
+2014-08-20T15:05:46: Analyzing "pip._vendor.requests.packages.chardet.chardetect"
+2014-08-20T15:05:46: Analyzing "pip._vendor.requests.packages.chardet.chardistribution"
+2014-08-20T15:05:46: Analyzing "pip._vendor.requests.packages.chardet.charsetgroupprober"
+2014-08-20T15:05:46: Analyzing "pip._vendor.requests.packages.chardet.charsetprober"
+2014-08-20T15:05:46: Analyzing "pip._vendor.requests.packages.chardet.codingstatemachine"
+2014-08-20T15:05:46: Analyzing "pip._vendor.requests.packages.chardet.compat"
+2014-08-20T15:05:46: Analyzing "pip._vendor.requests.packages.chardet.constants"
+2014-08-20T15:05:46: Analyzing "pip._vendor.requests.packages.chardet.cp949prober"
+2014-08-20T15:05:46: Analyzing "pip._vendor.requests.packages.chardet.escprober"
+2014-08-20T15:05:46: Analyzing "pip._vendor.requests.packages.chardet.escsm"
+2014-08-20T15:05:46: Analyzing "pip._vendor.requests.packages.chardet.eucjpprober"
+2014-08-20T15:05:46: Analyzing "pip._vendor.requests.packages.chardet.euckrfreq"
+2014-08-20T15:05:46: Analyzing "pip._vendor.requests.packages.chardet.euckrprober"
+2014-08-20T15:05:46: Analyzing "pip._vendor.requests.packages.chardet.euctwfreq"
+2014-08-20T15:05:46: Analyzing "pip._vendor.requests.packages.chardet.euctwprober"
+2014-08-20T15:05:46: Analyzing "pip._vendor.requests.packages.chardet.gb2312freq"
+2014-08-20T15:05:46: Analyzing "pip._vendor.requests.packages.chardet.gb2312prober"
+2014-08-20T15:05:46: Analyzing "pip._vendor.requests.packages.chardet.hebrewprober"
+2014-08-20T15:05:46: Analyzing "pip._vendor.requests.packages.chardet.jisfreq"
+2014-08-20T15:05:46: Analyzing "pip._vendor.requests.packages.chardet.jpcntx"
+2014-08-20T15:05:46: Analyzing "pip._vendor.requests.packages.chardet.langbulgarianmodel"
+2014-08-20T15:05:46: Analyzing "pip._vendor.requests.packages.chardet.langcyrillicmodel"
+2014-08-20T15:05:46: Analyzing "pip._vendor.requests.packages.chardet.langgreekmodel"
+2014-08-20T15:05:46: Analyzing "pip._vendor.requests.packages.chardet.langhebrewmodel"
+2014-08-20T15:05:46: Analyzing "pip._vendor.requests.packages.chardet.langhungarianmodel"
+2014-08-20T15:05:46: Analyzing "pip._vendor.requests.packages.chardet.langthaimodel"
+2014-08-20T15:05:46: Analyzing "pip._vendor.requests.packages.chardet.latin1prober"
+2014-08-20T15:05:46: Analyzing "pip._vendor.requests.packages.chardet.mbcharsetprober"
+2014-08-20T15:05:46: Analyzing "pip._vendor.requests.packages.chardet.mbcsgroupprober"
+2014-08-20T15:05:46: Analyzing "pip._vendor.requests.packages.chardet.mbcssm"
+2014-08-20T15:05:46: Analyzing "pip._vendor.requests.packages.chardet.sbcharsetprober"
+2014-08-20T15:05:46: Analyzing "pip._vendor.requests.packages.chardet.sbcsgroupprober"
+2014-08-20T15:05:46: Analyzing "pip._vendor.requests.packages.chardet.sjisprober"
+2014-08-20T15:05:46: Analyzing "pip._vendor.requests.packages.chardet.universaldetector"
+2014-08-20T15:05:46: Analyzing "pip._vendor.requests.packages.chardet.utf8prober"
+2014-08-20T15:05:46: Analyzing "pip._vendor.requests.packages.chardet"
+2014-08-20T15:05:46: Analyzing "pip._vendor.requests.packages.urllib3.connection"
+2014-08-20T15:05:46: Analyzing "pip._vendor.requests.packages.urllib3.connectionpool"
+2014-08-20T15:05:46: Analyzing "pip._vendor.requests.packages.urllib3.exceptions"
+2014-08-20T15:05:46: Analyzing "pip._vendor.requests.packages.urllib3.fields"
+2014-08-20T15:05:46: Analyzing "pip._vendor.requests.packages.urllib3.filepost"
+2014-08-20T15:05:46: Analyzing "pip._vendor.requests.packages.urllib3.poolmanager"
+2014-08-20T15:05:46: Analyzing "pip._vendor.requests.packages.urllib3.request"
+2014-08-20T15:05:46: Analyzing "pip._vendor.requests.packages.urllib3.response"
+2014-08-20T15:05:46: Analyzing "pip._vendor.requests.packages.urllib3.util"
+2014-08-20T15:05:46: Analyzing "pip._vendor.requests.packages.urllib3._collections"
+2014-08-20T15:05:46: Analyzing "pip._vendor.requests.packages.urllib3"
+2014-08-20T15:05:46: Analyzing "pip._vendor.requests.packages.urllib3.contrib.ntlmpool"
+2014-08-20T15:05:46: Analyzing "pip._vendor.requests.packages.urllib3.contrib.pyopenssl"
+2014-08-20T15:05:46: Analyzing "pip._vendor.requests.packages.urllib3.contrib"
+2014-08-20T15:05:46: Analyzing "pip._vendor.requests.packages.urllib3.packages.ordered_dict"
+2014-08-20T15:05:46: Analyzing "pip._vendor.requests.packages.urllib3.packages.six"
+2014-08-20T15:05:46: Analyzing "pip._vendor.requests.packages.urllib3.packages"
+2014-08-20T15:05:46: Analyzing "pip._vendor.requests.packages.urllib3.packages.ssl_match_hostname._implementation"
+2014-08-20T15:05:46: Analyzing "pip._vendor.requests.packages.urllib3.packages.ssl_match_hostname"
+2014-08-20T15:05:46: Analyzing "pip._vendor._markerlib.markers"
+2014-08-20T15:05:46: Analyzing "pip._vendor._markerlib"
+2014-08-20T15:05:46: Starting analysis of 208 modules
+2014-08-20T15:05:52: Analysis complete
+2014-08-20T15:05:52: Saving group "D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip"
+2014-08-20T15:05:54: End of group "D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\pip"
+2014-08-20T15:05:54: Start group "D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\praw" with 10 files
+2014-08-20T15:05:56: Parsing "praw.decorators" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\praw\decorators.py")
+2014-08-20T15:05:56: Parsing "praw.errors" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\praw\errors.py")
+2014-08-20T15:05:56: Parsing "praw.handlers" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\praw\handlers.py")
+2014-08-20T15:05:56: Parsing "praw.helpers" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\praw\helpers.py")
+2014-08-20T15:05:56: Parsing "praw.internal" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\praw\internal.py")
+2014-08-20T15:05:56: Parsing "praw.multiprocess" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\praw\multiprocess.py")
+2014-08-20T15:05:56: Parsing "praw.objects" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\praw\objects.py")
+2014-08-20T15:05:56: Parsing "praw.settings" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\praw\settings.py")
+2014-08-20T15:05:56: Parsing "praw" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\praw\__init__.py")
+2014-08-20T15:05:56: Parsing "praw.tests" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\praw\tests\__init__.py")
+2014-08-20T15:05:56: Parsing complete
+2014-08-20T15:05:56: Analyzing "praw.decorators"
+2014-08-20T15:05:56: Analyzing "praw.errors"
+2014-08-20T15:05:56: Analyzing "praw.handlers"
+2014-08-20T15:05:56: Analyzing "praw.helpers"
+2014-08-20T15:05:56: Analyzing "praw.internal"
+2014-08-20T15:05:56: Analyzing "praw.multiprocess"
+2014-08-20T15:05:56: Analyzing "praw.objects"
+2014-08-20T15:05:56: Analyzing "praw.settings"
+2014-08-20T15:05:56: Analyzing "praw"
+2014-08-20T15:05:56: Analyzing "praw.tests"
+2014-08-20T15:05:56: Starting analysis of 10 modules
+2014-08-20T15:05:57: Analysis complete
+2014-08-20T15:05:57: Saving group "D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\praw"
+2014-08-20T15:05:58: End of group "D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\praw"
+2014-08-20T15:05:58: Start group "D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\requests" with 78 files
+2014-08-20T15:05:59: Parsing "requests.adapters" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\requests\adapters.py")
+2014-08-20T15:05:59: Parsing "requests.api" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\requests\api.py")
+2014-08-20T15:05:59: Parsing "requests.auth" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\requests\auth.py")
+2014-08-20T15:05:59: Parsing "requests.certs" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\requests\certs.py")
+2014-08-20T15:05:59: Parsing "requests.compat" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\requests\compat.py")
+2014-08-20T15:05:59: Parsing "requests.cookies" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\requests\cookies.py")
+2014-08-20T15:05:59: Parsing "requests.exceptions" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\requests\exceptions.py")
+2014-08-20T15:05:59: Parsing "requests.hooks" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\requests\hooks.py")
+2014-08-20T15:05:59: Parsing "requests.models" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\requests\models.py")
+2014-08-20T15:05:59: Parsing "requests.sessions" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\requests\sessions.py")
+2014-08-20T15:05:59: Parsing "requests.status_codes" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\requests\status_codes.py")
+2014-08-20T15:05:59: Parsing "requests.structures" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\requests\structures.py")
+2014-08-20T15:05:59: Parsing "requests.utils" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\requests\utils.py")
+2014-08-20T15:05:59: Parsing "requests" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\requests\__init__.py")
+2014-08-20T15:05:59: Parsing "requests.packages" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\requests\packages\__init__.py")
+2014-08-20T15:05:59: Parsing "requests.packages.chardet.big5freq" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\requests\packages\chardet\big5freq.py")
+2014-08-20T15:05:59: Parsing "requests.packages.chardet.big5prober" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\requests\packages\chardet\big5prober.py")
+2014-08-20T15:05:59: Parsing "requests.packages.chardet.chardetect" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\requests\packages\chardet\chardetect.py")
+2014-08-20T15:05:59: Parsing "requests.packages.chardet.chardistribution" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\requests\packages\chardet\chardistribution.py")
+2014-08-20T15:05:59: Parsing "requests.packages.chardet.charsetgroupprober" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\requests\packages\chardet\charsetgroupprober.py")
+2014-08-20T15:05:59: Parsing "requests.packages.chardet.charsetprober" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\requests\packages\chardet\charsetprober.py")
+2014-08-20T15:05:59: Parsing "requests.packages.chardet.codingstatemachine" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\requests\packages\chardet\codingstatemachine.py")
+2014-08-20T15:05:59: Parsing "requests.packages.chardet.compat" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\requests\packages\chardet\compat.py")
+2014-08-20T15:05:59: Parsing "requests.packages.chardet.constants" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\requests\packages\chardet\constants.py")
+2014-08-20T15:05:59: Parsing "requests.packages.chardet.cp949prober" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\requests\packages\chardet\cp949prober.py")
+2014-08-20T15:05:59: Parsing "requests.packages.chardet.escprober" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\requests\packages\chardet\escprober.py")
+2014-08-20T15:05:59: Parsing "requests.packages.chardet.escsm" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\requests\packages\chardet\escsm.py")
+2014-08-20T15:05:59: Parsing "requests.packages.chardet.eucjpprober" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\requests\packages\chardet\eucjpprober.py")
+2014-08-20T15:05:59: Parsing "requests.packages.chardet.euckrfreq" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\requests\packages\chardet\euckrfreq.py")
+2014-08-20T15:05:59: Parsing "requests.packages.chardet.euckrprober" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\requests\packages\chardet\euckrprober.py")
+2014-08-20T15:05:59: Parsing "requests.packages.chardet.euctwfreq" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\requests\packages\chardet\euctwfreq.py")
+2014-08-20T15:05:59: Parsing "requests.packages.chardet.euctwprober" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\requests\packages\chardet\euctwprober.py")
+2014-08-20T15:05:59: Parsing "requests.packages.chardet.gb2312freq" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\requests\packages\chardet\gb2312freq.py")
+2014-08-20T15:05:59: Parsing "requests.packages.chardet.gb2312prober" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\requests\packages\chardet\gb2312prober.py")
+2014-08-20T15:05:59: Parsing "requests.packages.chardet.hebrewprober" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\requests\packages\chardet\hebrewprober.py")
+2014-08-20T15:05:59: Parsing "requests.packages.chardet.jisfreq" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\requests\packages\chardet\jisfreq.py")
+2014-08-20T15:05:59: Parsing "requests.packages.chardet.jpcntx" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\requests\packages\chardet\jpcntx.py")
+2014-08-20T15:05:59: Parsing "requests.packages.chardet.langbulgarianmodel" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\requests\packages\chardet\langbulgarianmodel.py")
+2014-08-20T15:05:59: Parsing "requests.packages.chardet.langcyrillicmodel" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\requests\packages\chardet\langcyrillicmodel.py")
+2014-08-20T15:05:59: Parsing "requests.packages.chardet.langgreekmodel" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\requests\packages\chardet\langgreekmodel.py")
+2014-08-20T15:05:59: Parsing "requests.packages.chardet.langhebrewmodel" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\requests\packages\chardet\langhebrewmodel.py")
+2014-08-20T15:05:59: Parsing "requests.packages.chardet.langhungarianmodel" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\requests\packages\chardet\langhungarianmodel.py")
+2014-08-20T15:05:59: Parsing "requests.packages.chardet.langthaimodel" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\requests\packages\chardet\langthaimodel.py")
+2014-08-20T15:05:59: Parsing "requests.packages.chardet.latin1prober" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\requests\packages\chardet\latin1prober.py")
+2014-08-20T15:05:59: Parsing "requests.packages.chardet.mbcharsetprober" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\requests\packages\chardet\mbcharsetprober.py")
+2014-08-20T15:05:59: Parsing "requests.packages.chardet.mbcsgroupprober" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\requests\packages\chardet\mbcsgroupprober.py")
+2014-08-20T15:05:59: Parsing "requests.packages.chardet.mbcssm" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\requests\packages\chardet\mbcssm.py")
+2014-08-20T15:05:59: Parsing "requests.packages.chardet.sbcharsetprober" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\requests\packages\chardet\sbcharsetprober.py")
+2014-08-20T15:05:59: Parsing "requests.packages.chardet.sbcsgroupprober" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\requests\packages\chardet\sbcsgroupprober.py")
+2014-08-20T15:05:59: Parsing "requests.packages.chardet.sjisprober" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\requests\packages\chardet\sjisprober.py")
+2014-08-20T15:05:59: Parsing "requests.packages.chardet.universaldetector" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\requests\packages\chardet\universaldetector.py")
+2014-08-20T15:05:59: Parsing "requests.packages.chardet.utf8prober" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\requests\packages\chardet\utf8prober.py")
+2014-08-20T15:05:59: Parsing "requests.packages.chardet" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\requests\packages\chardet\__init__.py")
+2014-08-20T15:05:59: Parsing "requests.packages.urllib3.connection" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\requests\packages\urllib3\connection.py")
+2014-08-20T15:05:59: Parsing "requests.packages.urllib3.connectionpool" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\requests\packages\urllib3\connectionpool.py")
+2014-08-20T15:05:59: Parsing "requests.packages.urllib3.exceptions" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\requests\packages\urllib3\exceptions.py")
+2014-08-20T15:05:59: Parsing "requests.packages.urllib3.fields" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\requests\packages\urllib3\fields.py")
+2014-08-20T15:05:59: Parsing "requests.packages.urllib3.filepost" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\requests\packages\urllib3\filepost.py")
+2014-08-20T15:05:59: Parsing "requests.packages.urllib3.poolmanager" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\requests\packages\urllib3\poolmanager.py")
+2014-08-20T15:05:59: Parsing "requests.packages.urllib3.request" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\requests\packages\urllib3\request.py")
+2014-08-20T15:05:59: Parsing "requests.packages.urllib3.response" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\requests\packages\urllib3\response.py")
+2014-08-20T15:05:59: Parsing "requests.packages.urllib3._collections" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\requests\packages\urllib3\_collections.py")
+2014-08-20T15:05:59: Parsing "requests.packages.urllib3" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\requests\packages\urllib3\__init__.py")
+2014-08-20T15:05:59: Parsing "requests.packages.urllib3.contrib.ntlmpool" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\requests\packages\urllib3\contrib\ntlmpool.py")
+2014-08-20T15:05:59: Parsing "requests.packages.urllib3.contrib.pyopenssl" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\requests\packages\urllib3\contrib\pyopenssl.py")
+2014-08-20T15:05:59: Parsing "requests.packages.urllib3.contrib" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\requests\packages\urllib3\contrib\__init__.py")
+2014-08-20T15:05:59: Parsing "requests.packages.urllib3.packages.ordered_dict" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\requests\packages\urllib3\packages\ordered_dict.py")
+2014-08-20T15:05:59: Parsing "requests.packages.urllib3.packages.six" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\requests\packages\urllib3\packages\six.py")
+2014-08-20T15:05:59: Parsing "requests.packages.urllib3.packages" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\requests\packages\urllib3\packages\__init__.py")
+2014-08-20T15:05:59: Parsing "requests.packages.urllib3.packages.ssl_match_hostname._implementation" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\requests\packages\urllib3\packages\ssl_match_hostname\_implementation.py")
+2014-08-20T15:05:59: Parsing "requests.packages.urllib3.packages.ssl_match_hostname" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\requests\packages\urllib3\packages\ssl_match_hostname\__init__.py")
+2014-08-20T15:05:59: Parsing "requests.packages.urllib3.util.connection" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\requests\packages\urllib3\util\connection.py")
+2014-08-20T15:05:59: Parsing "requests.packages.urllib3.util.request" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\requests\packages\urllib3\util\request.py")
+2014-08-20T15:05:59: Parsing "requests.packages.urllib3.util.response" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\requests\packages\urllib3\util\response.py")
+2014-08-20T15:05:59: Parsing "requests.packages.urllib3.util.ssl_" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\requests\packages\urllib3\util\ssl_.py")
+2014-08-20T15:05:59: Parsing "requests.packages.urllib3.util.timeout" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\requests\packages\urllib3\util\timeout.py")
+2014-08-20T15:05:59: Parsing "requests.packages.urllib3.util.url" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\requests\packages\urllib3\util\url.py")
+2014-08-20T15:05:59: Parsing "requests.packages.urllib3.util" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\requests\packages\urllib3\util\__init__.py")
+2014-08-20T15:05:59: Parsing complete
+2014-08-20T15:05:59: Analyzing "requests.adapters"
+2014-08-20T15:05:59: Analyzing "requests.api"
+2014-08-20T15:05:59: Analyzing "requests.auth"
+2014-08-20T15:05:59: Analyzing "requests.certs"
+2014-08-20T15:05:59: Analyzing "requests.compat"
+2014-08-20T15:05:59: Analyzing "requests.cookies"
+2014-08-20T15:05:59: Analyzing "requests.exceptions"
+2014-08-20T15:05:59: Analyzing "requests.hooks"
+2014-08-20T15:05:59: Analyzing "requests.models"
+2014-08-20T15:05:59: Analyzing "requests.sessions"
+2014-08-20T15:05:59: Analyzing "requests.status_codes"
+2014-08-20T15:05:59: Analyzing "requests.structures"
+2014-08-20T15:05:59: Analyzing "requests.utils"
+2014-08-20T15:05:59: Analyzing "requests"
+2014-08-20T15:05:59: Analyzing "requests.packages"
+2014-08-20T15:05:59: Analyzing "requests.packages.chardet.big5freq"
+2014-08-20T15:05:59: Analyzing "requests.packages.chardet.big5prober"
+2014-08-20T15:05:59: Analyzing "requests.packages.chardet.chardetect"
+2014-08-20T15:05:59: Analyzing "requests.packages.chardet.chardistribution"
+2014-08-20T15:05:59: Analyzing "requests.packages.chardet.charsetgroupprober"
+2014-08-20T15:05:59: Analyzing "requests.packages.chardet.charsetprober"
+2014-08-20T15:05:59: Analyzing "requests.packages.chardet.codingstatemachine"
+2014-08-20T15:05:59: Analyzing "requests.packages.chardet.compat"
+2014-08-20T15:05:59: Analyzing "requests.packages.chardet.constants"
+2014-08-20T15:05:59: Analyzing "requests.packages.chardet.cp949prober"
+2014-08-20T15:05:59: Analyzing "requests.packages.chardet.escprober"
+2014-08-20T15:05:59: Analyzing "requests.packages.chardet.escsm"
+2014-08-20T15:05:59: Analyzing "requests.packages.chardet.eucjpprober"
+2014-08-20T15:05:59: Analyzing "requests.packages.chardet.euckrfreq"
+2014-08-20T15:05:59: Analyzing "requests.packages.chardet.euckrprober"
+2014-08-20T15:05:59: Analyzing "requests.packages.chardet.euctwfreq"
+2014-08-20T15:05:59: Analyzing "requests.packages.chardet.euctwprober"
+2014-08-20T15:05:59: Analyzing "requests.packages.chardet.gb2312freq"
+2014-08-20T15:05:59: Analyzing "requests.packages.chardet.gb2312prober"
+2014-08-20T15:05:59: Analyzing "requests.packages.chardet.hebrewprober"
+2014-08-20T15:05:59: Analyzing "requests.packages.chardet.jisfreq"
+2014-08-20T15:05:59: Analyzing "requests.packages.chardet.jpcntx"
+2014-08-20T15:05:59: Analyzing "requests.packages.chardet.langbulgarianmodel"
+2014-08-20T15:05:59: Analyzing "requests.packages.chardet.langcyrillicmodel"
+2014-08-20T15:05:59: Analyzing "requests.packages.chardet.langgreekmodel"
+2014-08-20T15:05:59: Analyzing "requests.packages.chardet.langhebrewmodel"
+2014-08-20T15:05:59: Analyzing "requests.packages.chardet.langhungarianmodel"
+2014-08-20T15:05:59: Analyzing "requests.packages.chardet.langthaimodel"
+2014-08-20T15:05:59: Analyzing "requests.packages.chardet.latin1prober"
+2014-08-20T15:05:59: Analyzing "requests.packages.chardet.mbcharsetprober"
+2014-08-20T15:05:59: Analyzing "requests.packages.chardet.mbcsgroupprober"
+2014-08-20T15:05:59: Analyzing "requests.packages.chardet.mbcssm"
+2014-08-20T15:05:59: Analyzing "requests.packages.chardet.sbcharsetprober"
+2014-08-20T15:05:59: Analyzing "requests.packages.chardet.sbcsgroupprober"
+2014-08-20T15:05:59: Analyzing "requests.packages.chardet.sjisprober"
+2014-08-20T15:05:59: Analyzing "requests.packages.chardet.universaldetector"
+2014-08-20T15:05:59: Analyzing "requests.packages.chardet.utf8prober"
+2014-08-20T15:05:59: Analyzing "requests.packages.chardet"
+2014-08-20T15:05:59: Analyzing "requests.packages.urllib3.connection"
+2014-08-20T15:05:59: Analyzing "requests.packages.urllib3.connectionpool"
+2014-08-20T15:05:59: Analyzing "requests.packages.urllib3.exceptions"
+2014-08-20T15:05:59: Analyzing "requests.packages.urllib3.fields"
+2014-08-20T15:05:59: Analyzing "requests.packages.urllib3.filepost"
+2014-08-20T15:05:59: Analyzing "requests.packages.urllib3.poolmanager"
+2014-08-20T15:05:59: Analyzing "requests.packages.urllib3.request"
+2014-08-20T15:05:59: Analyzing "requests.packages.urllib3.response"
+2014-08-20T15:05:59: Analyzing "requests.packages.urllib3._collections"
+2014-08-20T15:05:59: Analyzing "requests.packages.urllib3"
+2014-08-20T15:05:59: Analyzing "requests.packages.urllib3.contrib.ntlmpool"
+2014-08-20T15:05:59: Analyzing "requests.packages.urllib3.contrib.pyopenssl"
+2014-08-20T15:05:59: Analyzing "requests.packages.urllib3.contrib"
+2014-08-20T15:05:59: Analyzing "requests.packages.urllib3.packages.ordered_dict"
+2014-08-20T15:05:59: Analyzing "requests.packages.urllib3.packages.six"
+2014-08-20T15:05:59: Analyzing "requests.packages.urllib3.packages"
+2014-08-20T15:05:59: Analyzing "requests.packages.urllib3.packages.ssl_match_hostname._implementation"
+2014-08-20T15:05:59: Analyzing "requests.packages.urllib3.packages.ssl_match_hostname"
+2014-08-20T15:05:59: Analyzing "requests.packages.urllib3.util.connection"
+2014-08-20T15:05:59: Analyzing "requests.packages.urllib3.util.request"
+2014-08-20T15:05:59: Analyzing "requests.packages.urllib3.util.response"
+2014-08-20T15:05:59: Analyzing "requests.packages.urllib3.util.ssl_"
+2014-08-20T15:05:59: Analyzing "requests.packages.urllib3.util.timeout"
+2014-08-20T15:05:59: Analyzing "requests.packages.urllib3.util.url"
+2014-08-20T15:05:59: Analyzing "requests.packages.urllib3.util"
+2014-08-20T15:05:59: Starting analysis of 78 modules
+2014-08-20T15:06:00: Analysis complete
+2014-08-20T15:06:00: Saving group "D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\requests"
+2014-08-20T15:06:01: End of group "D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\requests"
+2014-08-20T15:06:01: Start group "D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\setuptools" with 55 files
+2014-08-20T15:06:02: Parsing "setuptools.archive_util" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\setuptools\archive_util.py")
+2014-08-20T15:06:02: Parsing "setuptools.compat" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\setuptools\compat.py")
+2014-08-20T15:06:02: Parsing "setuptools.depends" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\setuptools\depends.py")
+2014-08-20T15:06:02: Parsing "setuptools.dist" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\setuptools\dist.py")
+2014-08-20T15:06:02: Parsing "setuptools.extension" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\setuptools\extension.py")
+2014-08-20T15:06:02: Parsing "setuptools.lib2to3_ex" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\setuptools\lib2to3_ex.py")
+2014-08-20T15:06:02: Parsing "setuptools.package_index" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\setuptools\package_index.py")
+2014-08-20T15:06:02: Parsing "setuptools.py26compat" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\setuptools\py26compat.py")
+2014-08-20T15:06:02: Parsing "setuptools.py27compat" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\setuptools\py27compat.py")
+2014-08-20T15:06:02: Parsing "setuptools.py31compat" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\setuptools\py31compat.py")
+2014-08-20T15:06:02: Parsing "setuptools.sandbox" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\setuptools\sandbox.py")
+2014-08-20T15:06:02: Parsing "setuptools.ssl_support" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\setuptools\ssl_support.py")
+2014-08-20T15:06:02: Parsing "setuptools.svn_utils" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\setuptools\svn_utils.py")
+2014-08-20T15:06:02: Parsing "setuptools.version" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\setuptools\version.py")
+2014-08-20T15:06:02: Parsing "setuptools" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\setuptools\__init__.py")
+2014-08-20T15:06:02: Parsing "setuptools.command.alias" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\setuptools\command\alias.py")
+2014-08-20T15:06:02: Parsing "setuptools.command.bdist_egg" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\setuptools\command\bdist_egg.py")
+2014-08-20T15:06:02: Parsing "setuptools.command.bdist_rpm" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\setuptools\command\bdist_rpm.py")
+2014-08-20T15:06:02: Parsing "setuptools.command.bdist_wininst" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\setuptools\command\bdist_wininst.py")
+2014-08-20T15:06:02: Parsing "setuptools.command.build_ext" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\setuptools\command\build_ext.py")
+2014-08-20T15:06:02: Parsing "setuptools.command.build_py" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\setuptools\command\build_py.py")
+2014-08-20T15:06:02: Parsing "setuptools.command.develop" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\setuptools\command\develop.py")
+2014-08-20T15:06:02: Parsing "setuptools.command.easy_install" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\setuptools\command\easy_install.py")
+2014-08-20T15:06:02: Parsing "setuptools.command.egg_info" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\setuptools\command\egg_info.py")
+2014-08-20T15:06:02: Parsing "setuptools.command.install" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\setuptools\command\install.py")
+2014-08-20T15:06:02: Parsing "setuptools.command.install_egg_info" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\setuptools\command\install_egg_info.py")
+2014-08-20T15:06:02: Parsing "setuptools.command.install_lib" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\setuptools\command\install_lib.py")
+2014-08-20T15:06:02: Parsing "setuptools.command.install_scripts" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\setuptools\command\install_scripts.py")
+2014-08-20T15:06:02: Parsing "setuptools.command.register" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\setuptools\command\register.py")
+2014-08-20T15:06:02: Parsing "setuptools.command.rotate" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\setuptools\command\rotate.py")
+2014-08-20T15:06:02: Parsing "setuptools.command.saveopts" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\setuptools\command\saveopts.py")
+2014-08-20T15:06:02: Parsing "setuptools.command.sdist" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\setuptools\command\sdist.py")
+2014-08-20T15:06:02: Parsing "setuptools.command.setopt" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\setuptools\command\setopt.py")
+2014-08-20T15:06:02: Parsing "setuptools.command.test" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\setuptools\command\test.py")
+2014-08-20T15:06:02: Parsing "setuptools.command.upload_docs" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\setuptools\command\upload_docs.py")
+2014-08-20T15:06:02: Parsing "setuptools.command" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\setuptools\command\__init__.py")
+2014-08-20T15:06:02: Parsing "setuptools.tests.doctest" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\setuptools\tests\doctest.py")
+2014-08-20T15:06:02: Parsing "setuptools.tests.environment" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\setuptools\tests\environment.py")
+2014-08-20T15:06:03: Parsing "setuptools.tests.py26compat" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\setuptools\tests\py26compat.py")
+2014-08-20T15:06:03: Parsing "setuptools.tests.server" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\setuptools\tests\server.py")
+2014-08-20T15:06:03: Parsing "setuptools.tests.test_bdist_egg" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\setuptools\tests\test_bdist_egg.py")
+2014-08-20T15:06:03: Parsing "setuptools.tests.test_build_ext" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\setuptools\tests\test_build_ext.py")
+2014-08-20T15:06:03: Parsing "setuptools.tests.test_develop" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\setuptools\tests\test_develop.py")
+2014-08-20T15:06:03: Parsing "setuptools.tests.test_dist_info" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\setuptools\tests\test_dist_info.py")
+2014-08-20T15:06:03: Parsing "setuptools.tests.test_easy_install" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\setuptools\tests\test_easy_install.py")
+2014-08-20T15:06:03: Parsing "setuptools.tests.test_egg_info" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\setuptools\tests\test_egg_info.py")
+2014-08-20T15:06:03: Parsing "setuptools.tests.test_markerlib" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\setuptools\tests\test_markerlib.py")
+2014-08-20T15:06:03: Parsing "setuptools.tests.test_packageindex" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\setuptools\tests\test_packageindex.py")
+2014-08-20T15:06:03: Parsing "setuptools.tests.test_resources" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\setuptools\tests\test_resources.py")
+2014-08-20T15:06:03: Parsing "setuptools.tests.test_sandbox" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\setuptools\tests\test_sandbox.py")
+2014-08-20T15:06:03: Parsing "setuptools.tests.test_sdist" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\setuptools\tests\test_sdist.py")
+2014-08-20T15:06:03: Parsing "setuptools.tests.test_svn" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\setuptools\tests\test_svn.py")
+2014-08-20T15:06:03: Parsing "setuptools.tests.test_test" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\setuptools\tests\test_test.py")
+2014-08-20T15:06:03: Parsing "setuptools.tests.test_upload_docs" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\setuptools\tests\test_upload_docs.py")
+2014-08-20T15:06:03: Parsing "setuptools.tests" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\setuptools\tests\__init__.py")
+2014-08-20T15:06:03: Parsing complete
+2014-08-20T15:06:03: Analyzing "setuptools.archive_util"
+2014-08-20T15:06:03: Analyzing "setuptools.compat"
+2014-08-20T15:06:03: Analyzing "setuptools.depends"
+2014-08-20T15:06:03: Analyzing "setuptools.dist"
+2014-08-20T15:06:03: Analyzing "setuptools.extension"
+2014-08-20T15:06:03: Analyzing "setuptools.lib2to3_ex"
+2014-08-20T15:06:03: Analyzing "setuptools.package_index"
+2014-08-20T15:06:03: Analyzing "setuptools.py26compat"
+2014-08-20T15:06:03: Analyzing "setuptools.py27compat"
+2014-08-20T15:06:03: Analyzing "setuptools.py31compat"
+2014-08-20T15:06:03: Analyzing "setuptools.sandbox"
+2014-08-20T15:06:03: Analyzing "setuptools.ssl_support"
+2014-08-20T15:06:03: Analyzing "setuptools.svn_utils"
+2014-08-20T15:06:03: Analyzing "setuptools.version"
+2014-08-20T15:06:03: Analyzing "setuptools"
+2014-08-20T15:06:03: Analyzing "setuptools.command.alias"
+2014-08-20T15:06:03: Analyzing "setuptools.command.bdist_egg"
+2014-08-20T15:06:03: Analyzing "setuptools.command.bdist_rpm"
+2014-08-20T15:06:03: Analyzing "setuptools.command.bdist_wininst"
+2014-08-20T15:06:03: Analyzing "setuptools.command.build_ext"
+2014-08-20T15:06:03: Analyzing "setuptools.command.build_py"
+2014-08-20T15:06:03: Analyzing "setuptools.command.develop"
+2014-08-20T15:06:03: Analyzing "setuptools.command.easy_install"
+2014-08-20T15:06:03: Analyzing "setuptools.command.egg_info"
+2014-08-20T15:06:03: Analyzing "setuptools.command.install"
+2014-08-20T15:06:03: Analyzing "setuptools.command.install_egg_info"
+2014-08-20T15:06:03: Analyzing "setuptools.command.install_lib"
+2014-08-20T15:06:03: Analyzing "setuptools.command.install_scripts"
+2014-08-20T15:06:03: Analyzing "setuptools.command.register"
+2014-08-20T15:06:03: Analyzing "setuptools.command.rotate"
+2014-08-20T15:06:03: Analyzing "setuptools.command.saveopts"
+2014-08-20T15:06:03: Analyzing "setuptools.command.sdist"
+2014-08-20T15:06:03: Analyzing "setuptools.command.setopt"
+2014-08-20T15:06:03: Analyzing "setuptools.command.test"
+2014-08-20T15:06:03: Analyzing "setuptools.command.upload_docs"
+2014-08-20T15:06:03: Analyzing "setuptools.command"
+2014-08-20T15:06:03: Analyzing "setuptools.tests.doctest"
+2014-08-20T15:06:03: Analyzing "setuptools.tests.environment"
+2014-08-20T15:06:03: Analyzing "setuptools.tests.py26compat"
+2014-08-20T15:06:03: Analyzing "setuptools.tests.server"
+2014-08-20T15:06:03: Analyzing "setuptools.tests.test_bdist_egg"
+2014-08-20T15:06:03: Analyzing "setuptools.tests.test_build_ext"
+2014-08-20T15:06:03: Analyzing "setuptools.tests.test_develop"
+2014-08-20T15:06:03: Analyzing "setuptools.tests.test_dist_info"
+2014-08-20T15:06:03: Analyzing "setuptools.tests.test_easy_install"
+2014-08-20T15:06:03: Analyzing "setuptools.tests.test_egg_info"
+2014-08-20T15:06:03: Analyzing "setuptools.tests.test_markerlib"
+2014-08-20T15:06:03: Analyzing "setuptools.tests.test_packageindex"
+2014-08-20T15:06:03: Analyzing "setuptools.tests.test_resources"
+2014-08-20T15:06:03: Analyzing "setuptools.tests.test_sandbox"
+2014-08-20T15:06:03: Analyzing "setuptools.tests.test_sdist"
+2014-08-20T15:06:03: Analyzing "setuptools.tests.test_svn"
+2014-08-20T15:06:03: Analyzing "setuptools.tests.test_test"
+2014-08-20T15:06:03: Analyzing "setuptools.tests.test_upload_docs"
+2014-08-20T15:06:03: Analyzing "setuptools.tests"
+2014-08-20T15:06:03: Starting analysis of 55 modules
+2014-08-20T15:06:04: Analysis complete
+2014-08-20T15:06:04: Saving group "D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\setuptools"
+2014-08-20T15:06:04: End of group "D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\setuptools"
+2014-08-20T15:06:04: Start group "D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\_markerlib" with 2 files
+2014-08-20T15:06:06: Parsing "_markerlib.markers" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\_markerlib\markers.py")
+2014-08-20T15:06:06: Parsing "_markerlib" ("D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\_markerlib\__init__.py")
+2014-08-20T15:06:06: Parsing complete
+2014-08-20T15:06:06: Analyzing "_markerlib.markers"
+2014-08-20T15:06:06: Analyzing "_markerlib"
+2014-08-20T15:06:06: Starting analysis of 2 modules
+2014-08-20T15:06:06: Analysis complete
+2014-08-20T15:06:06: Saving group "D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\_markerlib"
+2014-08-20T15:06:06: End of group "D:\Development\Python\RedditSaveButtonBot\RedditSaveButtonBot\dev\Lib\site-packages\_markerlib"
+2014-08-20T15:06:06: Deleting 0 files
