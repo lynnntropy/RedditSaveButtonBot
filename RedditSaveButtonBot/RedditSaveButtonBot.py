@@ -10,6 +10,8 @@ login_file.close()
 username = login_data[0].strip()
 password = login_data[1].strip()
 reddit = praw.Reddit(user_agent='Reddit Save Button Bot by /u/OmegaVesko')
+
+reddit.config._ssl_url = None # disable SSL because it messes up PythonAnywhere
 reddit.login(username, password)
 
 subreddit_to_track = 'all'
