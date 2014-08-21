@@ -12,7 +12,7 @@ reddit = praw.Reddit(user_agent='Reddit Save Button Bot by /u/OmegaVesko')
 reddit.config._ssl_url = None # disable SSL because it messes up PythonAnywhere
 reddit.login(username, password)
 
-subreddit_to_track = 'test'
+subreddit_to_track = 'all'
 patterns = ['.', 'save', 'saved']
 #patterns = ['trigger_save_button_bot']
 
