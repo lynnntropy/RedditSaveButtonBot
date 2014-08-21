@@ -16,7 +16,7 @@ subreddit_to_track = 'all'
 patterns = ['.', 'save', 'saved']
 #patterns = ['trigger_save_button_bot']
 
-special_loop_count = 2000
+special_loop_count = 10000
 
 reply_body = """Hey there! It looks like you're trying to save something on Reddit by replying to it.
 You probably missed the 'save' button Reddit puts below every post and comment. Hit that and it'll show up on the 'saved' tab on your
