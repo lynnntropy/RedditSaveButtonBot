@@ -1,6 +1,4 @@
 import praw
-from datetime import datetime
-import calendar
 import time
 
 login_file = open('login.txt')
@@ -18,6 +16,8 @@ subreddit_to_track = 'all'
 patterns = ['.', 'save', 'saved']
 #patterns = ['trigger_save_button_bot']
 
+special_loop_count = 2000
+
 reply_body = """Hey there! It looks like you're trying to save something on Reddit by replying to it.
 You probably missed the 'save' button Reddit puts below every post and comment. Hit that and it'll show up on the 'saved' tab on your
 front page. Easy as that!
@@ -28,11 +28,35 @@ Trying to save a comment on a mobile app that doesn't support it?
 are both amazing apps that make saving comments a breeze.
 
 Still having trouble, or don't want to switch apps? [Pocket](http://getpocket.com/) is a great service 
-that lets you save anything at all in the cloud, not just Reddit posts/comments."""
+that lets you save anything at all in the cloud, not just Reddit posts/comments.
+---
+^this ^comment ^will ^be ^deleted ^if ^its ^score ^is ^-1 ^or ^lower."""
 
 print "<< Starting comment tracking for /r/%s >>\n" % subreddit_to_track
 
+i = 0
+
 for comment in praw.helpers.comment_stream(reddit, subreddit_to_track, limit=None, verbosity=0): # indefinite comment stream!
+
+    i += 1
+
+    if i >= special_loop_count:
+        i = 0
+        # run the 'special loop' without interrupting comment parsing 
+        print "\n-- Running 'special' loop --"
+
+        my_user = praw.objects.LoggedInRedditor(reddit, user_name=username)
+
+        deleted_comment_count = 0
+
+        for comment in my_user.get_comments(limit=None):
+            if comment.score < 0:
+                deleted_comment_count += 1
+                print "Deleting comment in %s with score %d" % (comment.subreddit.url, comment.score)
+                comment.delete()
+
+        print "-- Special loop finished. %d comments deleted. --" % deleted_comment_count
+
 
     current_time_unix = int(time.time())
 
@@ -45,7 +69,7 @@ for comment in praw.helpers.comment_stream(reddit, subreddit_to_track, limit=Non
         if comment.body.strip() in patterns:
 
             # found a matching comment!
-            print "\nMatching comment submitted %d seconds ago to /r/%s!\n '%s' by /u/%s" % (time_difference, subreddit_to_track, comment.body[:15], comment.author)
+            print "\nMatching comment submitted %d seconds ago to %s!\n '%s' by /u/%s" % (time_difference, comment.subreddit.url, comment.body[:15], comment.author)
 
             try:
                 comment.reply(reply_body)
