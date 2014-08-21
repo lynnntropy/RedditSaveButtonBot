@@ -12,7 +12,7 @@ reddit = praw.Reddit(user_agent='Reddit Save Button Bot by /u/OmegaVesko')
 reddit.config._ssl_url = None # disable SSL because it messes up PythonAnywhere
 reddit.login(username, password)
 
-subreddit_to_track = 'all'
+subreddit_to_track = 'test'
 patterns = ['.', 'save', 'saved']
 #patterns = ['trigger_save_button_bot']
 
@@ -29,8 +29,10 @@ are both amazing apps that make saving comments a breeze.
 
 Still having trouble, or don't want to switch apps? [Pocket](http://getpocket.com/) is a great service 
 that lets you save anything at all in the cloud, not just Reddit posts/comments.
----
-^this ^comment ^will ^be ^deleted ^if ^its ^score ^is ^-1 ^or ^lower."""
+
+====
+
+^this ^comment ^will ^be ^deleted ^automatically ^if ^its ^score ^is ^-1 ^or ^lower."""
 
 print "<< Starting comment tracking for /r/%s >>\n" % subreddit_to_track
 
