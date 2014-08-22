@@ -14,7 +14,7 @@ reddit.login(username, password)
 
 subreddit_to_track = 'all'
 patterns = ['.', 'save', 'saved']
-#patterns = ['trigger_save_button_bot']
+delete_key = 'Bot, self destruct.'
 
 special_loop_count = 10000
 
@@ -88,3 +88,17 @@ for comment in praw.helpers.comment_stream(reddit, subreddit_to_track, limit=Non
                     print "   Replied to comment."
                 except:
                     print "   Tried to comment but Reddit replied 'you're doing that too much'."
+
+        elif comment.body.strip() == delete_key:
+            parent_comment = reddit.get_info(thing_id=comment.parent_id)
+
+            if comment.author.name == 'OmegaVesko':                
+                # delete comment on command
+
+                #comment_to_delete = reddit.get_info(thing_id=parent_comment.parent_id)
+                comment.reply("Yes, sir. Comment deleted.")
+                parent_comment.delete()
+
+            else:
+                # someone tried to impersonate me :P
+                comment.reply("Access denied. Nice try, though.")
