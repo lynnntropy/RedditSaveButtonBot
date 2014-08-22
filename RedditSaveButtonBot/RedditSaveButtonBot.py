@@ -39,7 +39,7 @@ print "<< Starting comment tracking for /r/%s >>\n" % subreddit_to_track
 i = 0
 
 for comment in praw.helpers.comment_stream(reddit, subreddit_to_track, limit=None, verbosity=0): # indefinite comment stream!
-
+    
     i += 1
 
     if i >= special_loop_count:
@@ -70,11 +70,20 @@ for comment in praw.helpers.comment_stream(reddit, subreddit_to_track, limit=Non
         # check if the comment matches one of the patterns
         if comment.body.strip() in patterns:
 
+            parent_comment = reddit.get_info(thing_id=comment.parent_id)            
+
             # found a matching comment!
             print "\nMatching comment submitted %d seconds ago to %s!\n '%s' by /u/%s" % (time_difference, comment.subreddit.url, comment.body[:15], comment.author)
 
-            try:
-                comment.reply(reply_body)
-                print "   Replied to comment."
-            except:
-                print "   Tried to comment but Reddit replied 'you're doing that too much'."
+            if parent_comment.author.name == 'SaveButtonReminder':
+                try:
+                    comment.reply("Nice try.")
+                    print "   Replied 'nice try' to comment."
+                except:
+                    print "   Tried to reply 'nice try' but Reddit replied 'you're doing that too much'."
+            else:
+                try:
+                    comment.reply(reply_body)
+                    print "   Replied to comment."
+                except:
+                    print "   Tried to comment but Reddit replied 'you're doing that too much'."
