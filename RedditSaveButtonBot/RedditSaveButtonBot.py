@@ -75,19 +75,22 @@ for comment in praw.helpers.comment_stream(reddit, subreddit_to_track, limit=Non
             # found a matching comment!
             print "\nMatching comment submitted %d seconds ago to %s!\n '%s' by /u/%s" % (time_difference, comment.subreddit.url, comment.body[:15], comment.author)
 
-            if parent_comment.author.name == 'SaveButtonReminder':
-                if parent_comment.body != "Nice try.":
+            try:
+                if parent_comment.author.name == 'SaveButtonReminder':
+                    if parent_comment.body != "Nice try.":
+                        try:
+                            comment.reply("Nice try.")
+                            print "   Replied 'nice try' to comment."
+                        except:
+                            print "   Tried to reply 'nice try' but Reddit replied 'you're doing that too much'."
+                else:
                     try:
-                        comment.reply("Nice try.")
-                        print "   Replied 'nice try' to comment."
+                        comment.reply(reply_body)
+                        print "   Replied to comment."
                     except:
-                        print "   Tried to reply 'nice try' but Reddit replied 'you're doing that too much'."
-            else:
-                try:
-                    comment.reply(reply_body)
-                    print "   Replied to comment."
-                except:
-                    print "   Tried to comment but Reddit replied 'you're doing that too much'."
+                        print "   Tried to comment but Reddit replied 'you're doing that too much'."
+            except:
+                print "Caught exception safely"
 
         elif comment.body.strip() == delete_key:
             parent_comment = reddit.get_info(thing_id=comment.parent_id)
